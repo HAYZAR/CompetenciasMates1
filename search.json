@@ -1,0 +1,254 @@
+[
+  {
+    "objectID": "unidad1/sesion5.html",
+    "href": "unidad1/sesion5.html",
+    "title": "Sesión 5: Aplicaciones de Ecuaciones",
+    "section": "",
+    "text": "Tip\n\n\n\nObjetivo de la sesión:\nAplicar ecuaciones lineales y cuadráticas a la resolución de problemas prácticos de economía, administración y finanzas."
+  },
+  {
+    "objectID": "unidad1/sesion5.html#autoevaluación",
+    "href": "unidad1/sesion5.html#autoevaluación",
+    "title": "Sesión 5: Aplicaciones de Ecuaciones",
+    "section": "4. Autoevaluación",
+    "text": "4. Autoevaluación\n\nTest (selección múltiple, única respuesta)\n\n\n1. ¿Cuál es el punto de equilibrio si \\(C = 4x + 60\\) y \\(R = 10x\\)?\n\n a) 5  b) 10  c) 15  d) 20\n\n2. ¿Cuántas soluciones tiene \\(x^2 - 6x + 9 = 0\\)?\n\n a) 1  b) 2  c) 0  d) Infinitas\n\n3. ¿Qué representa el discriminante \\(D\\) en una cuadrática?\n\n a) El coeficiente principal  b) Número de soluciones reales  c) El punto de equilibrio  d) La pendiente de la recta\n\n4. Una empresa con \\(C = 6x + 48\\) e ingresos \\(R = 18x\\). ¿Cuántas unidades para equilibrio?\n\n a) 2  b) 4  c) 6  d) 8\n\n5. El beneficio \\(P = -x^2 + 14x - 49\\) es cero para:\n\n a) \\(x = 2\\)  b) \\(x = 7\\)  c) \\(x = 9\\)  d) \\(x = 14\\)  Ver resultado"
+  },
+  {
+    "objectID": "unidad1/sesion3.html",
+    "href": "unidad1/sesion3.html",
+    "title": "Sesión 3: Factorización y Fracciones",
+    "section": "",
+    "text": "Tip\n\n\n\nObjetivo de la sesión:\nComprender y aplicar la factorización y las fracciones algebraicas para simplificar expresiones y resolver problemas prácticos en contextos económicos, administrativos y contables."
+  },
+  {
+    "objectID": "unidad1/sesion3.html#ejercicios-resueltos",
+    "href": "unidad1/sesion3.html#ejercicios-resueltos",
+    "title": "Sesión 3: Factorización y Fracciones",
+    "section": "5. Ejercicios resueltos",
+    "text": "5. Ejercicios resueltos\n\nFactoriza: \\(8x^2 + 12x = 4x(2x + 3)\\)\nExplicación: Se extrae el factor común \\(4x\\).\nDiferencia de cuadrados: \\(y^2 - 25 = (y - 5)(y + 5)\\)\nContexto: Diferencia entre ingresos proyectados y reales.\nSimplifica: \\(\\frac{3x^2 + 6x}{3x} = x + 2\\)\nContexto: Relación entre costos y unidades producidas.\nSuma de fracciones: \\(\\frac{1}{x} + \\frac{2}{x+1} = \\frac{(x+1) + 2x}{x(x+1)} = \\frac{3x+1}{x(x+1)}\\)\nExplicación: Se usó MCM como denominador común.\nMultiplicación de fracciones: \\(\\frac{x-1}{x+2} \\cdot \\frac{x+2}{x-1} = 1\\)\nContexto: Cancelación de factores comunes."
+  },
+  {
+    "objectID": "unidad1/sesion3.html#ejercicios-propuestos",
+    "href": "unidad1/sesion3.html#ejercicios-propuestos",
+    "title": "Sesión 3: Factorización y Fracciones",
+    "section": "6. Ejercicios propuestos",
+    "text": "6. Ejercicios propuestos\n\nFactoriza \\(5x^2 + 15x\\).\nSimplifica \\(\\frac{4x^2 + 8x}{4x}\\).\nSuma \\(\\frac{2}{x} + \\frac{3}{x+1}\\).\nResta \\(\\frac{5}{x+2} - \\frac{2}{x}\\).\nMultiplica \\(\\frac{x+1}{x} \\cdot \\frac{2x}{x+3}\\).\nDivide \\(\\frac{x^2-9}{x+3} \\div \\frac{x-3}{x}\\).\nFactoriza \\(a^2 - 9b^2\\).\nSimplifica \\(\\frac{x^2 + 4x + 4}{x+2}\\).\nSuma \\(\\frac{1}{x-1} + \\frac{1}{x+1}\\).\nResuelve: Si \\(\\frac{6x+12}{3x} = 4\\), ¿cuánto vale \\(x\\)?"
+  },
+  {
+    "objectID": "unidad1/sesion3.html#autoevaluación",
+    "href": "unidad1/sesion3.html#autoevaluación",
+    "title": "Sesión 3: Factorización y Fracciones",
+    "section": "7. Autoevaluación",
+    "text": "7. Autoevaluación\n\nTest (selección múltiple, única respuesta)\n\n\n1. ¿Cuál es la factorización de \\(x^2 - 9\\)?\n\n a) \\((x-3)^2\\)  b) \\((x-3)(x+3)\\)  c) \\((x+9)\\)  d) \\(x^2+9\\)\n\n2. ¿Cuál es el resultado de simplificar \\(\\frac{4x^2 + 8x}{4x}\\)?\n\n a) \\(x + 2\\)  b) \\(x^2 + 2\\)  c) \\(x^2 + 8\\)  d) \\(4x + 8\\)\n\n3. La suma \\(\\frac{2}{x} + \\frac{3}{x+1}\\) tiene como denominador común:\n\n a) \\(x(x+1)\\)  b) \\(x+1\\)  c) \\(x\\)  d) \\(x^2+1\\)\n\n4. ¿Qué resultado da la multiplicación \\(\\frac{x-1}{x+2} \\cdot \\frac{x+2}{x-1}\\)?\n\n a) \\(1\\)  b) \\(x+2\\)  c) \\(x-1\\)  d) \\(x^2-1\\)\n\n5. ¿Cuál es el factor común de \\(12x^2 + 18x\\)?\n\n a) \\(2x\\)  b) \\(6x\\)  c) \\(12\\)  d) \\(3x\\)\n Ver resultado\n\n\n\n\n\n\n\nProblemas abiertos de autoevaluación\n\n\nFactoriza \\(9x^2 - 16\\) y explica en qué contexto se puede aplicar (por ejemplo, comparación de áreas).\nSimplifica \\(\\frac{x^2 + 3x}{x}\\) y da un ejemplo financiero de su utilidad.\nSuma y simplifica: \\(\\frac{5}{x} + \\frac{4}{x+2}\\). Explica una posible interpretación administrativa.\nUn proceso productivo tiene costos modelados por \\(C = 2x^2 + 8x\\). ¿Cómo puedes simplificar y qué representa cada factor?\nDivide: \\(\\frac{x^2 - 4}{x+2} \\div \\frac{x-2}{x}\\) y explica el procedimiento paso a paso.\n\n\n\n 📘 Ver retroalimentación y soluciones"
+  },
+  {
+    "objectID": "unidad1/sesion1.html",
+    "href": "unidad1/sesion1.html",
+    "title": "Sesión 1: Números Reales, Exponenciales y Radicales",
+    "section": "",
+    "text": "Tip\n\n\n\nObjetivo de la sesión:\nIdentificar y aplicar correctamente los números reales, las potencias y los radicales en situaciones cotidianas y en contextos de las ciencias económicas, administrativas y contables."
+  },
+  {
+    "objectID": "unidad1/sesion1.html#teoría-y-conceptos",
+    "href": "unidad1/sesion1.html#teoría-y-conceptos",
+    "title": "Sesión 1: Números Reales, Exponenciales y Radicales",
+    "section": "1. Teoría y conceptos",
+    "text": "1. Teoría y conceptos\n\n1.1 Números Reales\nLos números reales incluyen todos los números que se pueden ubicar en la recta numérica: naturales, enteros, racionales e irracionales.\nPropiedades principales: - Conmutativa: \\(a + b = b + a\\), \\(a \\cdot b = b \\cdot a\\) - Asociativa: \\((a + b) + c = a + (b + c)\\), \\((a \\cdot b) \\cdot c = a \\cdot (b \\cdot c)\\) - Distributiva: \\(a(b + c) = ab + ac\\) - Neutro: \\(a + 0 = a\\), \\(a \\cdot 1 = a\\) - Opuesto/Inverso: \\(a + (-a) = 0\\), \\(a \\cdot (1/a) = 1\\) (si \\(a \\neq 0\\)) - Cerradura: La suma o producto de dos reales es real. - Densidad: Entre dos números reales distintos siempre hay otro real.\nEjemplo aplicado:\nEl total de ingresos sumando \\(4 + 5 = 9\\) es igual a \\(5 + 4 = 9\\) gracias a la conmutatividad.\nEn balances, sumar partidas en cualquier orden no afecta el resultado.\n\n\n\n1.2 Potencias y Exponentes\nUna potencia es una multiplicación repetida: \\(a^n = a \\times a \\times \\cdots \\times a\\) (n veces).\nPropiedades clave: - \\(a^m \\cdot a^n = a^{m+n}\\) - \\(a^m / a^n = a^{m-n}\\) - \\((a^m)^n = a^{mn}\\) - \\((ab)^n = a^n b^n\\) - \\((a/b)^n = a^n / b^n\\) - \\(a^0 = 1\\) (si \\(a \\neq 0\\)) - \\(a^{-n} = 1/a^n\\) - \\(a^{1/n} = \\sqrt[n]{a}\\)\nEjemplo aplicado:\nInterés compuesto: \\(A = 1000 \\times (1 + 0.05)^3 \\approx \\$1157.63\\)\n\n\n\n1.3 Radicales\nUn radical es la raíz de un número: \\(\\sqrt[n]{a} = a^{1/n}\\)\nPropiedades útiles: - \\(\\sqrt[n]{a} \\cdot \\sqrt[n]{b} = \\sqrt[n]{ab}\\) - \\(\\sqrt[n]{a}/\\sqrt[n]{b} = \\sqrt[n]{a/b}\\) - \\(\\sqrt[n]{a^m} = a^{m/n}\\) - \\(\\sqrt[m]{\\sqrt[n]{a}} = \\sqrt[mn]{a}\\)\nEjemplo aplicado:\nDiagonal de un cuadrado de lado 5: \\(\\sqrt{5^2 + 5^2} = \\sqrt{50} \\approx 7.07\\)"
+  },
+  {
+    "objectID": "unidad1/sesion1.html#ejercicios-resueltos",
+    "href": "unidad1/sesion1.html#ejercicios-resueltos",
+    "title": "Sesión 1: Números Reales, Exponenciales y Radicales",
+    "section": "2. Ejercicios resueltos",
+    "text": "2. Ejercicios resueltos\n\n¿Por qué \\(-\\sqrt{5}\\) es irracional?\nPorque no puede expresarse como fracción y su decimal es infinito/no periódico.\nCalcula \\(2^3 \\cdot 2^{-1}\\) y explica:\n\\(2^3 = 8\\), \\(2^{-1} = 1/2\\), \\(8 \\cdot 1/2 = 4\\) (usando \\(a^m \\cdot a^n = a^{m+n}\\)).\nInterés compuesto:\n\\(A = 1000 \\times (1 + 0.06)^2 = 1000 \\times 1.1236 = \\$1,123.60\\)\nSimplifica \\(\\sqrt{18}\\):\n\\(\\sqrt{18} = \\sqrt{9 \\cdot 2} = 3\\sqrt{2}\\)\nDesviación estándar (ingresos de $500, $800, $700):\n\\(\\bar{x} = 666.67\\)\nSuma cuadrados: \\(46666.67\\)\nPromedio: \\(15555.56\\)\nDesviación estándar: \\(\\sqrt{15555.56} \\approx 124.7\\)"
+  },
+  {
+    "objectID": "unidad1/sesion1.html#ejercicios-propuestos",
+    "href": "unidad1/sesion1.html#ejercicios-propuestos",
+    "title": "Sesión 1: Números Reales, Exponenciales y Radicales",
+    "section": "3. Ejercicios propuestos",
+    "text": "3. Ejercicios propuestos\n\nDetermina si \\(-\\pi\\) es racional o irracional. Explica.\nCalcula \\(5^0 + 2^3\\) y justifica.\nExpresa \\(\\sqrt[3]{27}\\) como potencia.\nUn producto cuesta $120 y tiene un descuento del 15%. ¿Precio final?\nUn capital de $2,000 se invierte a 5% anual 3 años (interés compuesto). ¿Monto final?\nSimplifica \\(3^2 \\cdot 3^4\\) y explica.\nCalcula \\(\\sqrt{49} + \\sqrt{25}\\).\n¿A qué conjunto pertenece \\(0.333\\ldots\\)? ¿Por qué?\n¿Qué valor tiene \\(4^{-1}\\)? Interpreta.\nDa un ejemplo de uso de raíz cuadrada en economía y resuélvelo."
+  },
+  {
+    "objectID": "unidad1/sesion1.html#autoevaluación",
+    "href": "unidad1/sesion1.html#autoevaluación",
+    "title": "Sesión 1: Números Reales, Exponenciales y Radicales",
+    "section": "4. Autoevaluación",
+    "text": "4. Autoevaluación\n\nTest (selección múltiple, única respuesta)\n\n\n1. ¿Cuál de estos números es irracional?\n\n a) 0.25  b) \\(\\sqrt{7}\\)  c) \\(-\\frac{5}{2}\\)  d) 0\n\n2. ¿Cuánto es \\(3^2 \\cdot 3^3\\)?\n\n a) 15  b) 243  c) 27  d) 81\n\n3. ¿Qué representa \\(a^{-3}\\)?\n\n a) \\(a^3\\)  b) \\(-a^3\\)  c) \\(1/a^3\\)  d) \\(-1/a^3\\)\n\n4. ¿Cuál es la raíz cuadrada de 144?\n\n a) 12  b) 14  c) 24  d) 6\n\n5. En una fórmula de interés compuesto, el exponente “n” representa:\n\n a) Capital inicial  b) Tasa de interés  c) Número de periodos  d) Interés generado  Ver resultado"
+  },
+  {
+    "objectID": "unidad1/sesion1.html#problemas-abiertos-de-autoevaluación",
+    "href": "unidad1/sesion1.html#problemas-abiertos-de-autoevaluación",
+    "title": "Sesión 1: Números Reales, Exponenciales y Radicales",
+    "section": "Problemas abiertos de autoevaluación",
+    "text": "Problemas abiertos de autoevaluación\n\nUna empresa reporta ingresos trimestrales de $400, $550 y $650. Calcula la desviación estándar de estos ingresos y explica qué significa ese valor para la empresa.\nDemuestra con un ejemplo real cómo la propiedad distributiva puede ser útil al calcular el costo total de varios productos comprados en diferentes cantidades y precios.\nUn crédito de $5,000 se otorga a una tasa de 10% anual durante 2 años. Calcula el valor final aplicando interés compuesto.\nExplica un caso donde el cálculo de una raíz cuadrada es relevante en la administración o economía, resuelve el cálculo y explica su significado.\nDa un ejemplo de un número racional y uno irracional usados en economía o finanzas, y justifica por qué pertenecen a cada conjunto.\n\n\n 📘 Ver retroalimentación y soluciones   → Siguiente sesión"
+  },
+  {
+    "objectID": "retroalimentacion/unidad1_sesion4_soluciones.html",
+    "href": "retroalimentacion/unidad1_sesion4_soluciones.html",
+    "title": "Soluciones y Retroalimentación – Sesión 4: Ecuaciones Lineales y Cuadráticas",
+    "section": "",
+    "text": "1. ¿Cuál es la solución de \\(4x - 8 = 0\\)?\nRespuesta correcta: \\(x = 2\\)\nExplicación: \\(4x - 8 = 0 \\implies 4x = 8 \\implies x = 2\\)\n\n2. ¿Cuántas soluciones reales tiene la ecuación \\(x^2 + 4x + 5 = 0\\)?\nRespuesta correcta: Ninguna\nExplicación: El discriminante es \\(D = 4^2 - 4 \\cdot 1 \\cdot 5 = 16 - 20 = -4 &lt; 0\\). No hay soluciones reales.\n\n3. La fórmula cuadrática permite resolver ecuaciones de la forma:\nRespuesta correcta: \\(ax^2 + bx + c = 0\\)\nExplicación: La fórmula cuadrática se aplica a ecuaciones polinómicas de grado 2.\n\n4. Si \\(y = 3x + 9\\), ¿cuál es el valor de \\(x\\) para \\(y = 0\\)?\nRespuesta correcta: \\(x = -3\\)\nExplicación: \\(0 = 3x + 9 \\implies 3x = -9 \\implies x = -3\\)\n\n5. ¿Qué representa el discriminante (\\(D = b^2 - 4ac\\)) en una cuadrática?\nRespuesta correcta: El número de soluciones reales\nExplicación: Si \\(D &gt; 0\\) hay dos soluciones, si \\(D = 0\\) una solución, y si \\(D &lt; 0\\) no hay soluciones reales.\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\n1. Un fabricante quiere que el ingreso (\\(I = 8x\\)) iguale el costo total (\\(C = 5x + 60\\)). ¿Cuántas unidades debe vender? ¿Qué significa la solución?\nSolución:\n\\(8x = 5x + 60 \\implies 3x = 60 \\implies x = 20\\)\nInterpretación: Debe vender 20 unidades para que el ingreso cubra exactamente el costo total (punto de equilibrio).\n\n2. Una empresa modela el beneficio con \\(B = -x^2 + 14x - 45\\). ¿Para qué valores de \\(x\\) el beneficio es cero? Interpreta el resultado.\nSolución:\n\\(-x^2 + 14x - 45 = 0 \\implies x^2 - 14x + 45 = 0\\)\n\\((x - 5)(x - 9) = 0 \\implies x = 5,\\ x = 9\\)\nInterpretación: El beneficio es cero cuando se producen/venden 5 o 9 unidades. Valores fuera de ese rango generan pérdida.\n\n3. Resuelve y explica: \\(2x^2 + 10x = 0\\) en el contexto de maximizar el uso de un recurso.\nSolución:\n\\(2x(x + 5) = 0 \\implies x = 0\\) o \\(x = -5\\)\nInterpretación: Solo \\(x = 0\\) es válido en contexto real (no se puede producir una cantidad negativa). Cero uso de recurso, punto inicial.\n\n4. Aplica la fórmula cuadrática para \\(x^2 - 4x - 21 = 0\\) y explica un posible contexto administrativo.\nSolución:\n\\(x = \\frac{4 \\pm \\sqrt{16 + 84}}{2} = \\frac{4 \\pm \\sqrt{100}}{2} = \\frac{4 \\pm 10}{2}\\)\n\\(x_1 = 7,\\ x_2 = -3\\)\nInterpretación: Solo \\(x = 7\\) tiene sentido en administración (cantidad negativa no aplica).\n\n5. Si \\(P = x^2 - 20x + 96\\) modela el costo de producción, ¿para qué valores de \\(x\\) el costo es 0? ¿Cómo interpretarías la solución?\nSolución:\n\\(x^2 - 20x + 96 = 0 \\implies (x - 12)(x - 8) = 0\\)\n\\(x = 8\\) o \\(x = 12\\)\nInterpretación: Con 8 o 12 unidades, el costo es cero (teóricamente); en la práctica, estos pueden ser puntos de equilibrio o análisis de viabilidad.\n\n\n\n\n → Siguiente sesión"
+  },
+  {
+    "objectID": "retroalimentacion/unidad1_sesion4_soluciones.html#soluciones-a-la-autoevaluación",
+    "href": "retroalimentacion/unidad1_sesion4_soluciones.html#soluciones-a-la-autoevaluación",
+    "title": "Soluciones y Retroalimentación – Sesión 4: Ecuaciones Lineales y Cuadráticas",
+    "section": "",
+    "text": "1. ¿Cuál es la solución de \\(4x - 8 = 0\\)?\nRespuesta correcta: \\(x = 2\\)\nExplicación: \\(4x - 8 = 0 \\implies 4x = 8 \\implies x = 2\\)\n\n2. ¿Cuántas soluciones reales tiene la ecuación \\(x^2 + 4x + 5 = 0\\)?\nRespuesta correcta: Ninguna\nExplicación: El discriminante es \\(D = 4^2 - 4 \\cdot 1 \\cdot 5 = 16 - 20 = -4 &lt; 0\\). No hay soluciones reales.\n\n3. La fórmula cuadrática permite resolver ecuaciones de la forma:\nRespuesta correcta: \\(ax^2 + bx + c = 0\\)\nExplicación: La fórmula cuadrática se aplica a ecuaciones polinómicas de grado 2.\n\n4. Si \\(y = 3x + 9\\), ¿cuál es el valor de \\(x\\) para \\(y = 0\\)?\nRespuesta correcta: \\(x = -3\\)\nExplicación: \\(0 = 3x + 9 \\implies 3x = -9 \\implies x = -3\\)\n\n5. ¿Qué representa el discriminante (\\(D = b^2 - 4ac\\)) en una cuadrática?\nRespuesta correcta: El número de soluciones reales\nExplicación: Si \\(D &gt; 0\\) hay dos soluciones, si \\(D = 0\\) una solución, y si \\(D &lt; 0\\) no hay soluciones reales."
+  },
+  {
+    "objectID": "retroalimentacion/unidad1_sesion4_soluciones.html#soluciones-a-problemas-abiertos-de-autoevaluación",
+    "href": "retroalimentacion/unidad1_sesion4_soluciones.html#soluciones-a-problemas-abiertos-de-autoevaluación",
+    "title": "Soluciones y Retroalimentación – Sesión 4: Ecuaciones Lineales y Cuadráticas",
+    "section": "",
+    "text": "Note\n\n\n\n1. Un fabricante quiere que el ingreso (\\(I = 8x\\)) iguale el costo total (\\(C = 5x + 60\\)). ¿Cuántas unidades debe vender? ¿Qué significa la solución?\nSolución:\n\\(8x = 5x + 60 \\implies 3x = 60 \\implies x = 20\\)\nInterpretación: Debe vender 20 unidades para que el ingreso cubra exactamente el costo total (punto de equilibrio).\n\n2. Una empresa modela el beneficio con \\(B = -x^2 + 14x - 45\\). ¿Para qué valores de \\(x\\) el beneficio es cero? Interpreta el resultado.\nSolución:\n\\(-x^2 + 14x - 45 = 0 \\implies x^2 - 14x + 45 = 0\\)\n\\((x - 5)(x - 9) = 0 \\implies x = 5,\\ x = 9\\)\nInterpretación: El beneficio es cero cuando se producen/venden 5 o 9 unidades. Valores fuera de ese rango generan pérdida.\n\n3. Resuelve y explica: \\(2x^2 + 10x = 0\\) en el contexto de maximizar el uso de un recurso.\nSolución:\n\\(2x(x + 5) = 0 \\implies x = 0\\) o \\(x = -5\\)\nInterpretación: Solo \\(x = 0\\) es válido en contexto real (no se puede producir una cantidad negativa). Cero uso de recurso, punto inicial.\n\n4. Aplica la fórmula cuadrática para \\(x^2 - 4x - 21 = 0\\) y explica un posible contexto administrativo.\nSolución:\n\\(x = \\frac{4 \\pm \\sqrt{16 + 84}}{2} = \\frac{4 \\pm \\sqrt{100}}{2} = \\frac{4 \\pm 10}{2}\\)\n\\(x_1 = 7,\\ x_2 = -3\\)\nInterpretación: Solo \\(x = 7\\) tiene sentido en administración (cantidad negativa no aplica).\n\n5. Si \\(P = x^2 - 20x + 96\\) modela el costo de producción, ¿para qué valores de \\(x\\) el costo es 0? ¿Cómo interpretarías la solución?\nSolución:\n\\(x^2 - 20x + 96 = 0 \\implies (x - 12)(x - 8) = 0\\)\n\\(x = 8\\) o \\(x = 12\\)\nInterpretación: Con 8 o 12 unidades, el costo es cero (teóricamente); en la práctica, estos pueden ser puntos de equilibrio o análisis de viabilidad.\n\n\n\n\n → Siguiente sesión"
+  },
+  {
+    "objectID": "retroalimentacion/unidad1_sesion2_soluciones.html",
+    "href": "retroalimentacion/unidad1_sesion2_soluciones.html",
+    "title": "Soluciones y Retroalimentación – Sesión 2: Operaciones con Expresiones Algebraicas",
+    "section": "",
+    "text": "1. ¿Cuál es la suma de \\(3x + 5\\) y \\(4x - 2\\)?\nRespuesta correcta: \\(7x + 3\\)\nExplicación: Suma de términos semejantes: \\((3x + 4x) + (5 - 2) = 7x + 3\\)\n\n2. ¿Cómo se simplifica \\(2(x + 3) - 4x\\)?\nRespuesta correcta: \\(-2x + 6\\)\nExplicación: \\(2(x + 3) = 2x + 6\\), \\(2x + 6 - 4x = -2x + 6\\)\n\n3. ¿Cuál es el resultado de multiplicar \\((x + 2)(x + 3)\\)?\nRespuesta correcta: \\(x^2 + 5x + 6\\)\nExplicación: Aplicamos distributiva: \\(x(x+3) + 2(x+3) = x^2 + 3x + 2x + 6 = x^2 + 5x + 6\\)\n\n4. Si \\(6x^3\\) se divide entre \\(2x\\), el resultado es:\nRespuesta correcta: \\(3x^2\\)\nExplicación: \\(6x^3 / 2x = 3x^{3-1} = 3x^2\\)\n\n5. Al simplificar \\(4x + 2y - 3x + 5y\\), obtenemos:\nRespuesta correcta: \\(x + 7y\\)\nExplicación: Sumamos \\(4x - 3x = x\\) y \\(2y + 5y = 7y\\)\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\n1. Modelar costos con expresiones algebraicas\nUna empresa tiene un costo fijo de $80 y un costo variable de $7 por cada producto. Si vende \\(x\\) productos a $12 cada uno, ¿cuál es la expresión del beneficio y qué significa?\nSolución:\nIngreso: \\(12x\\)\nCosto total: \\(7x + 80\\)\nBeneficio: \\(12x - (7x + 80) = 5x - 80\\)\n\\(5x\\) es la ganancia por producto vendido.\n\\(80\\) es el costo fijo a recuperar antes de obtener ganancias.\n\n2. Aplicación administrativa\nSi dos procesos de una empresa toman \\((4x + 3)\\) y \\((2x - 1)\\) horas respectivamente, ¿cuánto tiempo total toman juntos? ¿Y si hay que repetir ambos dos veces?\nSolución:\nTiempo total una vez: \\(4x + 3 + 2x - 1 = 6x + 2\\) horas\nRepetidos dos veces: \\(2(6x + 2) = 12x + 4\\) horas\n\n3. Interpretación de la división de expresiones\nUn costo total de producción es \\(5x^2 + 10x\\) y se divide entre \\(5x\\). ¿Cuál es el resultado y su interpretación?\nSolución:\n\\(\\dfrac{5x^2 + 10x}{5x} = \\dfrac{5x^2}{5x} + \\dfrac{10x}{5x} = x + 2\\)\nInterpretación: El costo por unidad es \\(x + 2\\).\n\n4. Simplificación aplicada a ganancias\nUna empresa tiene ingresos de \\((8x + 15)\\) y gastos de \\((3x + 9)\\). ¿Cuál es la expresión simplificada para la ganancia?\nSolución:\n\\(8x + 15 - (3x + 9) = 8x + 15 - 3x - 9 = 5x + 6\\)\nLa ganancia es \\(5x + 6\\).\n\n5. Contexto financiero\nSi el presupuesto de dos departamentos es \\((2x + 5y)\\) y \\((3x - y)\\), ¿cuál es el presupuesto total y cómo se interpreta?\nSolución:\n\\(2x + 5y + 3x - y = 5x + 4y\\)\nEl total depende de \\(x\\) (por ejemplo, unidades producidas) y \\(y\\) (otra variable relevante, como personal).\n\n\n\n\n → Siguiente sesión"
+  },
+  {
+    "objectID": "retroalimentacion/unidad1_sesion2_soluciones.html#soluciones-a-la-autoevaluación",
+    "href": "retroalimentacion/unidad1_sesion2_soluciones.html#soluciones-a-la-autoevaluación",
+    "title": "Soluciones y Retroalimentación – Sesión 2: Operaciones con Expresiones Algebraicas",
+    "section": "",
+    "text": "1. ¿Cuál es la suma de \\(3x + 5\\) y \\(4x - 2\\)?\nRespuesta correcta: \\(7x + 3\\)\nExplicación: Suma de términos semejantes: \\((3x + 4x) + (5 - 2) = 7x + 3\\)\n\n2. ¿Cómo se simplifica \\(2(x + 3) - 4x\\)?\nRespuesta correcta: \\(-2x + 6\\)\nExplicación: \\(2(x + 3) = 2x + 6\\), \\(2x + 6 - 4x = -2x + 6\\)\n\n3. ¿Cuál es el resultado de multiplicar \\((x + 2)(x + 3)\\)?\nRespuesta correcta: \\(x^2 + 5x + 6\\)\nExplicación: Aplicamos distributiva: \\(x(x+3) + 2(x+3) = x^2 + 3x + 2x + 6 = x^2 + 5x + 6\\)\n\n4. Si \\(6x^3\\) se divide entre \\(2x\\), el resultado es:\nRespuesta correcta: \\(3x^2\\)\nExplicación: \\(6x^3 / 2x = 3x^{3-1} = 3x^2\\)\n\n5. Al simplificar \\(4x + 2y - 3x + 5y\\), obtenemos:\nRespuesta correcta: \\(x + 7y\\)\nExplicación: Sumamos \\(4x - 3x = x\\) y \\(2y + 5y = 7y\\)"
+  },
+  {
+    "objectID": "retroalimentacion/unidad1_sesion2_soluciones.html#soluciones-a-problemas-abiertos-de-autoevaluación",
+    "href": "retroalimentacion/unidad1_sesion2_soluciones.html#soluciones-a-problemas-abiertos-de-autoevaluación",
+    "title": "Soluciones y Retroalimentación – Sesión 2: Operaciones con Expresiones Algebraicas",
+    "section": "",
+    "text": "Note\n\n\n\n1. Modelar costos con expresiones algebraicas\nUna empresa tiene un costo fijo de $80 y un costo variable de $7 por cada producto. Si vende \\(x\\) productos a $12 cada uno, ¿cuál es la expresión del beneficio y qué significa?\nSolución:\nIngreso: \\(12x\\)\nCosto total: \\(7x + 80\\)\nBeneficio: \\(12x - (7x + 80) = 5x - 80\\)\n\\(5x\\) es la ganancia por producto vendido.\n\\(80\\) es el costo fijo a recuperar antes de obtener ganancias.\n\n2. Aplicación administrativa\nSi dos procesos de una empresa toman \\((4x + 3)\\) y \\((2x - 1)\\) horas respectivamente, ¿cuánto tiempo total toman juntos? ¿Y si hay que repetir ambos dos veces?\nSolución:\nTiempo total una vez: \\(4x + 3 + 2x - 1 = 6x + 2\\) horas\nRepetidos dos veces: \\(2(6x + 2) = 12x + 4\\) horas\n\n3. Interpretación de la división de expresiones\nUn costo total de producción es \\(5x^2 + 10x\\) y se divide entre \\(5x\\). ¿Cuál es el resultado y su interpretación?\nSolución:\n\\(\\dfrac{5x^2 + 10x}{5x} = \\dfrac{5x^2}{5x} + \\dfrac{10x}{5x} = x + 2\\)\nInterpretación: El costo por unidad es \\(x + 2\\).\n\n4. Simplificación aplicada a ganancias\nUna empresa tiene ingresos de \\((8x + 15)\\) y gastos de \\((3x + 9)\\). ¿Cuál es la expresión simplificada para la ganancia?\nSolución:\n\\(8x + 15 - (3x + 9) = 8x + 15 - 3x - 9 = 5x + 6\\)\nLa ganancia es \\(5x + 6\\).\n\n5. Contexto financiero\nSi el presupuesto de dos departamentos es \\((2x + 5y)\\) y \\((3x - y)\\), ¿cuál es el presupuesto total y cómo se interpreta?\nSolución:\n\\(2x + 5y + 3x - y = 5x + 4y\\)\nEl total depende de \\(x\\) (por ejemplo, unidades producidas) y \\(y\\) (otra variable relevante, como personal).\n\n\n\n\n → Siguiente sesión"
+  },
+  {
+    "objectID": "index.html#objetivos-del-curso",
+    "href": "index.html#objetivos-del-curso",
+    "title": "Competencias Matemáticas I",
+    "section": "Objetivos del curso",
+    "text": "Objetivos del curso\n\nDesarrollar competencias matemáticas para resolver problemas en contextos económicos, administrativos y contables.\nPotenciar el pensamiento lógico, el análisis y la interpretación de información cuantitativa.\nAplicar conceptos fundamentales de álgebra, funciones y modelación matemática a situaciones reales del entorno profesional."
+  },
+  {
+    "objectID": "index.html#cómo-navegar-el-curso",
+    "href": "index.html#cómo-navegar-el-curso",
+    "title": "Competencias Matemáticas I",
+    "section": "¿Cómo navegar el curso?",
+    "text": "¿Cómo navegar el curso?\nEl curso está organizado en 3 unidades, cada una con 5 sesiones de trabajo. En cada sesión encontrarás:\n\nTeoría y conceptos fundamentales, con ejemplos aplicados.\nEjercicios resueltos y propuestos.\nAutoevaluaciones interactivas y ejercicios abiertos.\nEspacios para la retroalimentación y discusión.\n\nAl finalizar cada sesión, podrás acceder a la retroalimentación detallada y pasar a la siguiente sesión con los botones de navegación.\n\n\n\nUnidad 1\n\n\n\nNúmeros reales, exponenciales y radicales\n\n\nExpresiones algebraicas y operaciones\n\n\nFactorización y fracciones\n\n\nEcuaciones lineales y cuadráticas\n\n\nAplicaciones y problemas contextualizados\n\n\nVer Unidad 1\n\n\n\nUnidad 2\n\n\n\nDesigualdades y valor absoluto\n\n\nFunciones y gráficas\n\n\nCombinación de funciones\n\n\nCoordenadas rectangulares y gráficas\n\n\nAplicaciones prácticas\n\n\nVer Unidad 2\n\n\n\nUnidad 3\n\n\n\nSimetría, traslaciones y rectas\n\n\nFunciones lineales y cuadráticas\n\n\nSistemas de ecuaciones\n\n\nSistemas no lineales y aplicaciones\n\n\nFunciones exponenciales y logarítmicas\n\n\nVer Unidad 3"
+  },
+  {
+    "objectID": "index.html#recursos-de-apoyo-y-contacto",
+    "href": "index.html#recursos-de-apoyo-y-contacto",
+    "title": "Competencias Matemáticas I",
+    "section": "Recursos de apoyo y contacto",
+    "text": "Recursos de apoyo y contacto\n\nBibliografía y recursos digitales\nConsultas académicas y soporte técnico: correohernandez@unireformada.edu.co\nEspacio de foros y retroalimentación disponible en cada sesión.\n\n\n\n© 2025 Corporación Universitaria Reformada – Competencias Matemáticas I"
+  },
+  {
+    "objectID": "retroalimentacion/unidad1_sesion1_soluciones.html",
+    "href": "retroalimentacion/unidad1_sesion1_soluciones.html",
+    "title": "Soluciones y Retroalimentación – Sesión 1: Números Reales, Exponenciales y Radicales",
+    "section": "",
+    "text": "📝"
+  },
+  {
+    "objectID": "retroalimentacion/unidad1_sesion1_soluciones.html#soluciones-a-la-autoevaluación",
+    "href": "retroalimentacion/unidad1_sesion1_soluciones.html#soluciones-a-la-autoevaluación",
+    "title": "Soluciones y Retroalimentación – Sesión 1: Números Reales, Exponenciales y Radicales",
+    "section": "Soluciones a la autoevaluación",
+    "text": "Soluciones a la autoevaluación\n\n\n1. ¿Cuál de estos números es irracional?\n\nRespuesta correcta: \\(\\sqrt{7}\\)\nRetroalimentación:\n\\(\\sqrt{7}\\) es irracional porque no puede representarse como fracción y su decimal es infinito no periódico. Si acertaste: ¡Muy bien! Reconocer números irracionales es clave para entender distintos contextos matemáticos y económicos. Si fallaste: Recuerda que solo los decimales infinitos periódicos o las fracciones son racionales.\n\n\n\n\n2. ¿Cuánto es \\(3^2 \\cdot 3^3\\)?\n\nRespuesta correcta: \\(243\\)\nRetroalimentación:\n\\(3^2 \\cdot 3^3 = 3^{2+3} = 3^5 = 243\\).\nSi acertaste: Dominas las reglas de exponentes. ¡Genial! Si fallaste: Recuerda que al multiplicar potencias de la misma base, sumas los exponentes.\n\n\n\n\n3. ¿Qué representa \\(a^{-3}\\)?\n\nRespuesta correcta: \\(1/a^3\\)\nRetroalimentación:\nUn exponente negativo significa el recíproco: \\(a^{-n} = 1/a^n\\). Si acertaste: ¡Excelente! Esto es fundamental en fórmulas financieras. Si fallaste: Repasa el significado de los exponentes negativos.\n\n\n\n\n4. ¿Cuál es la raíz cuadrada de 144?\n\nRespuesta correcta: \\(12\\)\nRetroalimentación:\n\\(12 \\times 12 = 144\\). Saber raíces cuadradas es útil para cálculos de variabilidad o dispersiones.\n\n\n\n\n5. En una fórmula de interés compuesto, el exponente “n” representa:\n\nRespuesta correcta: El número de periodos\nRetroalimentación:\nEn la fórmula \\(A = P(1+r)^n\\), “n” indica el número de periodos (años, meses, etc.) en que se capitaliza la inversión."
+  },
+  {
+    "objectID": "retroalimentacion/unidad1_sesion1_soluciones.html#soluciones-a-problemas-abiertos-de-autoevaluación",
+    "href": "retroalimentacion/unidad1_sesion1_soluciones.html#soluciones-a-problemas-abiertos-de-autoevaluación",
+    "title": "Soluciones y Retroalimentación – Sesión 1: Números Reales, Exponenciales y Radicales",
+    "section": "Soluciones a problemas abiertos de autoevaluación",
+    "text": "Soluciones a problemas abiertos de autoevaluación\n\n\n1. Desviación estándar de ingresos trimestrales\nEnunciado:\nUna empresa reporta ingresos de $400, $550 y $650. Calcula la desviación estándar y explica qué significa ese valor para la empresa.\nSolución:\n- Promedio: \\((400 + 550 + 650)/3 = 533.33\\)\n- Suma de cuadrados: \\((400-533.33)^2 + (550-533.33)^2 + (650-533.33)^2 = 17777.8 + 277.8 + 13611.1 = 31666.7\\)\n- Promedio de cuadrados: \\(31666.7/3 = 10555.6\\)\n- Desviación estándar: \\(\\sqrt{10555.6} \\approx 102.74\\)\nInterpretación:\nEste valor indica la variabilidad de los ingresos respecto al promedio. Una desviación estándar alta implica ingresos inestables.\n\n\n\n2. Propiedad distributiva y compras\nEnunciado:\nDemuestra con un ejemplo real cómo la propiedad distributiva puede ser útil al calcular el costo total de varios productos comprados en diferentes cantidades y precios.\nSolución:\nSi compras 4 cuadernos a $2 y 6 bolígrafos a $1:\nCosto total: \\(4 \\times 2 + 6 \\times 1 = 8 + 6 = \\$14\\)\nO bien: \\(2 \\times (4+3) = 2 \\times 7 = \\$14\\)\nComentario:\nLa propiedad distributiva ayuda a simplificar cálculos y agrupar compras, útil en balances y compras empresariales.\n\n\n\n3. Interés compuesto\nEnunciado:\nUn crédito de $5,000 se otorga a una tasa de 10% anual durante 2 años. Calcula el valor final aplicando interés compuesto.\nSolución:\n\\(A = 5000 \\times (1 + 0.10)^2 = 5000 \\times 1.21 = \\$6,050\\)\n\n\n\n4. Raíz cuadrada en contexto económico\nEnunciado:\nExplica un caso donde el cálculo de una raíz cuadrada es relevante en la administración o economía, resuelve el cálculo y explica su significado.\nSolución:\nCálculo de la desviación estándar de ventas mensuales ($100, $150, $200):\nPromedio: \\(150\\)\nSumas cuadradas: \\((100-150)^2 + (150-150)^2 + (200-150)^2 = 2500 + 0 + 2500 = 5000\\)\nPromedio: \\(5000/3 = 1666.67\\)\nDesviación estándar: \\(\\sqrt{1666.67} \\approx 40.82\\)\nInterpretación:\nSirve para analizar la variabilidad de las ventas, útil en evaluación de riesgos.\n\n\n\n5. Número racional e irracional en economía\nEnunciado:\nDa un ejemplo de un número racional y uno irracional usados en economía o finanzas, y justifica por qué pertenecen a cada conjunto.\nSolución:\n- Racional: Un interés del 8%, que se expresa como \\(0.08 = 2/25\\) (es fracción exacta). - Irracional: La raíz de 2 (\\(\\sqrt{2}\\)) que aparece en índices de diversificación, su decimal es infinito no periódico.\n\n\n → Siguiente sesión"
+  },
+  {
+    "objectID": "retroalimentacion/unidad1_sesion3_soluciones.html",
+    "href": "retroalimentacion/unidad1_sesion3_soluciones.html",
+    "title": "Retroalimentación y Soluciones — Sesión 3: Factorización y Fracciones",
+    "section": "",
+    "text": "Tip\n\n\n\n¡Felicidades por llegar a la retroalimentación de la sesión!\nAquí podrás revisar las soluciones detalladas de la autoevaluación y los problemas abiertos, con explicaciones paso a paso y comentarios sobre aplicaciones prácticas."
+  },
+  {
+    "objectID": "retroalimentacion/unidad1_sesion3_soluciones.html#soluciones-al-test-de-autoevaluación",
+    "href": "retroalimentacion/unidad1_sesion3_soluciones.html#soluciones-al-test-de-autoevaluación",
+    "title": "Retroalimentación y Soluciones — Sesión 3: Factorización y Fracciones",
+    "section": "Soluciones al test de autoevaluación",
+    "text": "Soluciones al test de autoevaluación\n\nFactor común:\nPregunta: ¿Cuál es el factor común de \\(6x^2 + 9x\\)?\nRespuesta: \\(3x\\)\nExplicación:\nAmbos términos tienen \\(3x\\) como factor común, por lo que \\(6x^2 + 9x = 3x(2x + 3)\\).\nDiferencia de cuadrados:\nPregunta: ¿Cómo se factoriza \\(x^2 - 25\\)?\nRespuesta: \\((x - 5)(x + 5)\\)\nExplicación:\nEs una diferencia de cuadrados: \\(x^2 - 25 = (x - 5)(x + 5)\\).\nSimplificación de fracciones:\nPregunta: Simplifica \\(\\frac{2x^2 + 4x}{x}\\)\nRespuesta: \\(2x + 4\\)\nExplicación:\nSe divide cada término del numerador entre \\(x\\).\nSuma de fracciones:\nPregunta: Suma \\(\\frac{1}{x} + \\frac{2}{x}\\)\nRespuesta: \\(\\frac{3}{x}\\)\nExplicación:\nTienen denominador común, se suman los numeradores.\nMultiplicación de fracciones:\nPregunta: Multiplica \\(\\frac{x}{x+1} \\cdot \\frac{x+2}{x}\\)\nRespuesta: \\(\\frac{x+2}{x+1}\\)\nExplicación:\nEl \\(x\\) del numerador y denominador se cancela."
+  },
+  {
+    "objectID": "retroalimentacion/unidad1_sesion3_soluciones.html#soluciones-a-problemas-abiertos",
+    "href": "retroalimentacion/unidad1_sesion3_soluciones.html#soluciones-a-problemas-abiertos",
+    "title": "Retroalimentación y Soluciones — Sesión 3: Factorización y Fracciones",
+    "section": "Soluciones a problemas abiertos",
+    "text": "Soluciones a problemas abiertos\n\nFactoriza \\(9x^2 - 16\\) y explica un contexto de aplicación.\nSolución:\n\\(9x^2 - 16\\) es una diferencia de cuadrados:\n\\(9x^2 - 16 = (3x - 4)(3x + 4)\\).\nContexto:\nPuede aplicarse al comparar áreas de dos cuadrados, o para encontrar puntos de equilibrio en un modelo financiero con variaciones cuadráticas.\nSimplifica \\(\\frac{x^2 + 3x}{x}\\) y da un ejemplo financiero.\nSolución:\n\\(\\frac{x^2 + 3x}{x} = x + 3\\) (si \\(x \\neq 0\\)).\nEjemplo financiero:\nSi \\(x\\) representa el número de unidades producidas y el numerador el costo total, entonces al dividir por \\(x\\) obtenemos el costo unitario más un costo fijo por unidad.\nSuma y simplifica: \\(\\frac{5}{x} + \\frac{4}{x+2}\\) e interpretación administrativa.\nSolución:\n\\(\\frac{5}{x} + \\frac{4}{x+2} = \\frac{5(x+2) + 4x}{x(x+2)} = \\frac{5x + 10 + 4x}{x(x+2)} = \\frac{9x + 10}{x(x+2)}\\)\nInterpretación:\nEn administración, podría modelar la suma de tasas de dos procesos con diferentes velocidades (\\(x\\) y \\(x+2\\)).\nCostos: \\(C = 2x^2 + 8x\\). ¿Cómo puedes simplificar y qué representa cada factor?\nSolución:\n\\(C = 2x^2 + 8x = 2x(x + 4)\\)\n\\(2x\\) representa el costo variable, y \\(x+4\\) puede interpretarse como un componente relacionado al aumento de unidades producidas.\nInterpretación:\nCada factor puede corresponder a una variable diferente que afecta el costo total.\nDivide: \\(\\frac{x^2 - 4}{x+2} \\div \\frac{x-2}{x}\\) y explica.\nSolución:\n\\(\\frac{x^2 - 4}{x+2} \\div \\frac{x-2}{x} = \\frac{x^2 - 4}{x+2} \\cdot \\frac{x}{x-2}\\)\nFactoriza el numerador: \\(x^2 - 4 = (x-2)(x+2)\\)\nPor tanto, \\(\\frac{(x-2)(x+2)}{x+2} \\cdot \\frac{x}{x-2} = (x-2)\\) y \\((x+2)\\) se cancelan,\nqueda: \\((x-2)\\) y \\((x-2)\\) se cancelan,\nfinalmente: \\(x\\)\nExplicación:\nSimplificamos los factores comunes antes de multiplicar.\n\n\n\n ⬅️ Volver a la sesión 3"
+  },
+  {
+    "objectID": "retroalimentacion/unidad1_sesion5_soluciones.html",
+    "href": "retroalimentacion/unidad1_sesion5_soluciones.html",
+    "title": "Retroalimentación y Soluciones: Sesión 5 — Aplicaciones de Ecuaciones",
+    "section": "",
+    "text": "En esta página encontrarás explicaciones detalladas y respuestas tanto de la autoevaluación como de los problemas abiertos propuestos en la sesión. ¡Revisa, aprende y refuerza tus competencias!"
+  },
+  {
+    "objectID": "retroalimentacion/unidad1_sesion5_soluciones.html#has-llegado-a-la-retroalimentación-y-soluciones-de-la-sesión-5",
+    "href": "retroalimentacion/unidad1_sesion5_soluciones.html#has-llegado-a-la-retroalimentación-y-soluciones-de-la-sesión-5",
+    "title": "Retroalimentación y Soluciones: Sesión 5 — Aplicaciones de Ecuaciones",
+    "section": "",
+    "text": "En esta página encontrarás explicaciones detalladas y respuestas tanto de la autoevaluación como de los problemas abiertos propuestos en la sesión. ¡Revisa, aprende y refuerza tus competencias!"
+  },
+  {
+    "objectID": "retroalimentacion/unidad1_sesion5_soluciones.html#soluciones-a-la-autoevaluación",
+    "href": "retroalimentacion/unidad1_sesion5_soluciones.html#soluciones-a-la-autoevaluación",
+    "title": "Retroalimentación y Soluciones: Sesión 5 — Aplicaciones de Ecuaciones",
+    "section": "1. Soluciones a la autoevaluación",
+    "text": "1. Soluciones a la autoevaluación\n\n\n\n\n\n\nNote\n\n\n\n1. ¿Cuál es el punto de equilibrio si \\(C = 4x + 60\\) y \\(R = 10x\\)?\nSolución: Igualamos ingresos y costos: \\(10x = 4x + 60 \\implies 6x = 60 \\implies x = 10\\).\nInterpretación: Se necesitan vender 10 unidades para cubrir los costos con los ingresos.\n\n2. ¿Cuántas soluciones tiene \\(x^2 - 6x + 9 = 0\\)?\nSolución: Calculamos el discriminante \\(D = b^2 - 4ac = (-6)^2 - 4(1)(9) = 36 - 36 = 0\\).\nConclusión: Hay una única solución real.\n\n3. ¿Qué representa el discriminante \\(D\\) en una cuadrática?\nSolución: Indica el número de soluciones reales.\n- Si \\(D &gt; 0\\) hay dos soluciones reales. - Si \\(D = 0\\) hay una solución real. - Si \\(D &lt; 0\\) no hay soluciones reales.\n\n4. Una empresa con \\(C = 6x + 48\\) e ingresos \\(R = 18x\\). ¿Cuántas unidades para equilibrio?\nSolución: \\(18x = 6x + 48 \\implies 12x = 48 \\implies x = 4\\).\n\n5. El beneficio \\(P = -x^2 + 14x - 49\\) es cero para:\nSolución: \\(-x^2 + 14x - 49 = 0 \\implies (x - 7)^2 = 0 \\implies x = 7\\)."
+  },
+  {
+    "objectID": "retroalimentacion/unidad1_sesion5_soluciones.html#soluciones-a-los-problemas-abiertos",
+    "href": "retroalimentacion/unidad1_sesion5_soluciones.html#soluciones-a-los-problemas-abiertos",
+    "title": "Retroalimentación y Soluciones: Sesión 5 — Aplicaciones de Ecuaciones",
+    "section": "2. Soluciones a los problemas abiertos",
+    "text": "2. Soluciones a los problemas abiertos\n\n1. Una fábrica produce costos \\(C = 8x + 120\\) y genera ingresos \\(R = 20x\\). ¿Cuántas unidades debe vender para igualar ingresos y costos?\nIgualamos: \\(20x = 8x + 120 \\implies 12x = 120 \\implies x = 10\\).\nRespuesta: Debe vender 10 unidades para el equilibrio.\n\n2. Un terreno tiene área máxima cuando \\(A = x(30 - x)\\). ¿Para qué \\(x\\) se maximiza el área? ¿Cuál es el área máxima?\n\\(A = x(30 - x) = 30x - x^2\\) es una parábola hacia abajo. El vértice se halla con \\(x_v = -b/(2a) = -30/(-2) = 15\\).\nÁrea máxima: \\(A_{max} = 15(30 - 15) = 225\\).\nRespuesta: Se maximiza para \\(x = 15\\) y área máxima \\(A = 225\\).\n\n3. Una inversión tiene beneficio \\(P = -4x^2 + 64x - 256\\). ¿Para qué valores de \\(x\\) el beneficio es cero?\nResolviendo \\(-4x^2 + 64x - 256 = 0 \\implies x^2 - 16x + 64 = 0 \\implies (x - 8)^2 = 0 \\implies x = 8\\).\nRespuesta: El beneficio es cero para \\(x = 8\\).\n\n4. En finanzas, el ingreso es \\(R = -x^2 + 40x\\). ¿Para qué valores de \\(x\\) el ingreso es \\(0\\)?\n\\(-x^2 + 40x = 0 \\implies x(-x + 40) = 0 \\implies x = 0\\) o \\(x = 40\\).\nRespuesta: El ingreso es cero para \\(x = 0\\) y \\(x = 40\\).\n\n5. Plantea y resuelve un problema de punto de equilibrio en un contexto real de tu interés (empresa, proyecto, etc.).\nEjemplo: Una cafetería tiene un costo fijo de \\(200\\) y cada café cuesta \\(3\\) en insumos. Vende cada café a \\(5\\). ¿Cuántos cafés debe vender para no tener pérdidas?\nEcuación: \\(5x = 3x + 200 \\implies 2x = 200 \\implies x = 100\\).\nRespuesta: Debe vender 100 cafés para alcanzar el punto de equilibrio."
+  },
+  {
+    "objectID": "retroalimentacion/unidad1_sesion5_soluciones.html#quieres-reforzar",
+    "href": "retroalimentacion/unidad1_sesion5_soluciones.html#quieres-reforzar",
+    "title": "Retroalimentación y Soluciones: Sesión 5 — Aplicaciones de Ecuaciones",
+    "section": "3. ¿Quieres reforzar?",
+    "text": "3. ¿Quieres reforzar?\n\nPractica con más problemas de tu contexto profesional.\nUsa simuladores y hojas de cálculo para comprobar soluciones.\nConsulta los recursos digitales y videos recomendados.\n\n\n\n ⬅️ Volver a la sesión 5"
+  },
+  {
+    "objectID": "unidad1/sesion2.html",
+    "href": "unidad1/sesion2.html",
+    "title": "Sesión 2: Operaciones con Expresiones Algebraicas",
+    "section": "",
+    "text": "Tip\n\n\n\nObjetivo de la sesión:\nReconocer y manipular expresiones algebraicas básicas, aplicar operaciones y simplificar expresiones en contextos económicos, administrativos y financieros."
+  },
+  {
+    "objectID": "unidad1/sesion2.html#autoevaluación",
+    "href": "unidad1/sesion2.html#autoevaluación",
+    "title": "Sesión 2: Operaciones con Expresiones Algebraicas",
+    "section": "4. Autoevaluación",
+    "text": "4. Autoevaluación\n\nTest (selección múltiple, única respuesta)\n\n\n1. ¿Cuál es el resultado de \\((2x + 3) + (4x - 5)\\)?\n\n a) \\(6x + 2\\)  b) \\(6x - 2\\)  c) \\(2x - 2\\)  d) \\(2x + 2\\)\n\n2. ¿Cómo se simplifica \\(3(x + 4) - 2x\\)?\n\n a) \\(3x + 12 - 2x\\)  b) \\(x + 12\\)  c) \\(x + 4\\)  d) \\(3x + 4\\)\n\n3. El resultado de \\((x + 5)(x - 2)\\) es:\n\n a) \\(x^2 + 3x - 10\\)  b) \\(x^2 + 10x - 10\\)  c) \\(x^2 - 10\\)  d) \\(x^2 + 5x - 2\\)\n\n4. ¿Cuál es el coeficiente en la expresión \\(7x^2 - 4x + 9\\)?\n\n a) \\(7\\)  b) \\(-4\\)  c) \\(9\\)  d) \\(x\\)\n\n5. Si el costo total es \\(4x + 80\\) y el ingreso es \\(9x\\), ¿cuál es la expresión para el beneficio?\n\n a) \\(5x - 80\\)  b) \\(13x\\)  c) \\(36x\\)  d) \\(4x + 80\\)\n Ver resultado\n\n\n\n\n\n–\n\n\n5. Problemas abiertos de autoevaluación\n\n\nUn negocio modela el costo total como \\(7x + 120\\), donde \\(x\\) es el número de productos. Si el ingreso es \\(11x\\), ¿cuál es la expresión del beneficio y qué significa cada término?\nUna empresa debe repartir un bono total de \\(3x + 900\\) entre \\(x\\) empleados. ¿Cuál es la expresión del bono promedio por empleado?\nSimplifica: \\(2(x+5) + 3(x-2) - 4x\\)\nExplica con tus palabras cómo ayuda la propiedad distributiva al calcular el costo de producir varios productos con precios y cantidades diferentes.\nDa un ejemplo en el que simplificar una expresión algebraica es útil para tomar decisiones en finanzas o administración.\n\n\n\n 📘 Ver retroalimentación y soluciones"
+  },
+  {
+    "objectID": "unidad1/sesion4.html",
+    "href": "unidad1/sesion4.html",
+    "title": "Sesión 4: Ecuaciones Lineales y Cuadráticas",
+    "section": "",
+    "text": "Tip\n\n\n\nObjetivo de la sesión:\nComprender y resolver ecuaciones lineales y cuadráticas, aplicando métodos algebraicos y analizando su utilidad en problemas de economía, administración y finanzas."
+  },
+  {
+    "objectID": "unidad1/sesion4.html#autoevaluación",
+    "href": "unidad1/sesion4.html#autoevaluación",
+    "title": "Sesión 4: Ecuaciones Lineales y Cuadráticas",
+    "section": "4. Autoevaluación",
+    "text": "4. Autoevaluación\n\nTest (selección múltiple, única respuesta)\n\n\n1. ¿Cuál es la solución de \\(4x - 8 = 0\\)?\n\n a) \\(x = 8\\)  b) \\(x = 2\\)  c) \\(x = -2\\)  d) \\(x = -8\\)\n\n2. ¿Cuántas soluciones reales tiene la ecuación \\(x^2 + 4x + 5 = 0\\)?\n\n a) Dos  b) Una  c) Ninguna  d) Infinitas\n\n3. La fórmula cuadrática permite resolver ecuaciones de la forma:\n\n a) \\(ax^2 + bx + c = 0\\)  b) \\(ax + b = 0\\)  c) \\(a/x + b = 0\\)  d) \\(ax^3 + bx^2 + cx + d = 0\\)\n\n4. Si \\(y = 3x + 9\\), ¿cuál es el valor de \\(x\\) para \\(y = 0\\)?\n\n a) \\(x = 9\\)  b) \\(x = -9\\)  c) \\(x = -3\\)  d) \\(x = 0\\)\n\n5. ¿Qué representa el discriminante (\\(D = b^2 - 4ac\\)) en una cuadrática?\n\n a) El número de soluciones reales  b) El coeficiente principal  c) El punto de intersección con el eje \\(y\\)  d) El vértice de la parábola\n Ver resultado\n\n\n\n\n\n\n\n5. Problemas abiertos de autoevaluación\n\n\nUn fabricante quiere que el ingreso (\\(I = 8x\\)) iguale el costo total (\\(C = 5x + 60\\)). ¿Cuántas unidades debe vender? ¿Qué significa la solución?\nUna empresa modela el beneficio con \\(B = -x^2 + 14x - 45\\). ¿Para qué valores de \\(x\\) el beneficio es cero? Interpreta el resultado.\nResuelve y explica: \\(2x^2 + 10x = 0\\) en el contexto de maximizar el uso de un recurso.\nAplica la fórmula cuadrática para \\(x^2 - 4x - 21 = 0\\) y explica un posible contexto administrativo.\nSi \\(P = x^2 - 20x + 96\\) modela el costo de producción, ¿para qué valores de \\(x\\) el costo es 0? ¿Cómo interpretarías la solución?\n\n\n\n\n 📘 Ver retroalimentación y soluciones"
+  }
+]
