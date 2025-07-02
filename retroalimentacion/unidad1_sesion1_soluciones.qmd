@@ -1,0 +1,162 @@
+---
+title: "Soluciones y Retroalimentación – Sesión 1: Números Reales, Exponenciales y Radicales"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: ../../styles.css
+---
+
+<div style="text-align:center; margin-bottom:1.5em;">
+  <span style="font-size:3em;">📝</span>
+  <h1 style="margin-bottom:0;">Soluciones y Retroalimentación</h1>
+  <h2 style="color:#1976d2;">Sesión 1: Números Reales, Exponenciales y Radicales</h2>
+</div>
+
+---
+
+::: {.callout-tip}
+**¡Felicitaciones por llegar hasta aquí!**  
+Revisa las respuestas, compara tus procesos, aprende de los errores y refuerza tus conocimientos antes de avanzar a la siguiente sesión.
+:::
+
+---
+
+## Soluciones a la autoevaluación
+
+---
+
+### 1. ¿Cuál de estos números es irracional?
+
+<div style="background:#e3f4e0; border-radius:10px; padding:1em; margin-bottom:1em;">
+<b>Respuesta correcta:</b> $\sqrt{7}$  
+<b>Retroalimentación:</b>  
+$\sqrt{7}$ es irracional porque no puede representarse como fracción y su decimal es infinito no periódico.<br>
+<span style="color:green;"><b>Si acertaste:</b> ¡Muy bien! Reconocer números irracionales es clave para entender distintos contextos matemáticos y económicos.</span><br>
+<span style="color:red;"><b>Si fallaste:</b> Recuerda que solo los decimales infinitos periódicos o las fracciones son racionales.</span>
+</div>
+
+---
+
+### 2. ¿Cuánto es $3^2 \cdot 3^3$?
+
+<div style="background:#e3f4e0; border-radius:10px; padding:1em; margin-bottom:1em;">
+<b>Respuesta correcta:</b> $243$  
+<b>Retroalimentación:</b>  
+$3^2 \cdot 3^3 = 3^{2+3} = 3^5 = 243$.  
+<span style="color:green;"><b>Si acertaste:</b> Dominas las reglas de exponentes. ¡Genial!</span><br>
+<span style="color:red;"><b>Si fallaste:</b> Recuerda que al multiplicar potencias de la misma base, sumas los exponentes.</span>
+</div>
+
+---
+
+### 3. ¿Qué representa $a^{-3}$?
+
+<div style="background:#e3f4e0; border-radius:10px; padding:1em; margin-bottom:1em;">
+<b>Respuesta correcta:</b> $1/a^3$  
+<b>Retroalimentación:</b>  
+Un exponente negativo significa el recíproco: $a^{-n} = 1/a^n$.<br>
+<span style="color:green;"><b>Si acertaste:</b> ¡Excelente! Esto es fundamental en fórmulas financieras.</span><br>
+<span style="color:red;"><b>Si fallaste:</b> Repasa el significado de los exponentes negativos.</span>
+</div>
+
+---
+
+### 4. ¿Cuál es la raíz cuadrada de 144?
+
+<div style="background:#e3f4e0; border-radius:10px; padding:1em; margin-bottom:1em;">
+<b>Respuesta correcta:</b> $12$  
+<b>Retroalimentación:</b>  
+$12 \times 12 = 144$. Saber raíces cuadradas es útil para cálculos de variabilidad o dispersiones.
+</div>
+
+---
+
+### 5. En una fórmula de interés compuesto, el exponente "n" representa:
+
+<div style="background:#e3f4e0; border-radius:10px; padding:1em; margin-bottom:1em;">
+<b>Respuesta correcta:</b> El número de periodos  
+<b>Retroalimentación:</b>  
+En la fórmula $A = P(1+r)^n$, "n" indica el número de periodos (años, meses, etc.) en que se capitaliza la inversión.
+</div>
+
+---
+
+## Soluciones a problemas abiertos de autoevaluación
+
+---
+
+### 1. Desviación estándar de ingresos trimestrales
+
+**Enunciado:**  
+Una empresa reporta ingresos de \$400, \$550 y \$650. Calcula la desviación estándar y explica qué significa ese valor para la empresa.
+
+**Solución:**  
+- Promedio: $(400 + 550 + 650)/3 = 533.33$  
+- Suma de cuadrados: $(400-533.33)^2 + (550-533.33)^2 + (650-533.33)^2 = 17777.8 + 277.8 + 13611.1 = 31666.7$  
+- Promedio de cuadrados: $31666.7/3 = 10555.6$  
+- Desviación estándar: $\sqrt{10555.6} \approx 102.74$
+
+**Interpretación:**  
+Este valor indica la variabilidad de los ingresos respecto al promedio. Una desviación estándar alta implica ingresos inestables.
+
+---
+
+### 2. Propiedad distributiva y compras
+
+**Enunciado:**  
+Demuestra con un ejemplo real cómo la propiedad distributiva puede ser útil al calcular el costo total de varios productos comprados en diferentes cantidades y precios.
+
+**Solución:**  
+Si compras 4 cuadernos a \$2 y 6 bolígrafos a \$1:  
+Costo total: $4 \times 2 + 6 \times 1 = 8 + 6 = \$14$  
+O bien: $2 \times (4+3) = 2 \times 7 = \$14$  
+**Comentario:**  
+La propiedad distributiva ayuda a simplificar cálculos y agrupar compras, útil en balances y compras empresariales.
+
+---
+
+### 3. Interés compuesto
+
+**Enunciado:**  
+Un crédito de \$5,000 se otorga a una tasa de 10% anual durante 2 años. Calcula el valor final aplicando interés compuesto.
+
+**Solución:**  
+$A = 5000 \times (1 + 0.10)^2 = 5000 \times 1.21 = \$6,050$
+
+---
+
+### 4. Raíz cuadrada en contexto económico
+
+**Enunciado:**  
+Explica un caso donde el cálculo de una raíz cuadrada es relevante en la administración o economía, resuelve el cálculo y explica su significado.
+
+**Solución:**  
+Cálculo de la desviación estándar de ventas mensuales (\$100, \$150, \$200):  
+Promedio: $150$  
+Sumas cuadradas: $(100-150)^2 + (150-150)^2 + (200-150)^2 = 2500 + 0 + 2500 = 5000$  
+Promedio: $5000/3 = 1666.67$  
+Desviación estándar: $\sqrt{1666.67} \approx 40.82$
+
+**Interpretación:**  
+Sirve para analizar la variabilidad de las ventas, útil en evaluación de riesgos.
+
+---
+
+### 5. Número racional e irracional en economía
+
+**Enunciado:**  
+Da un ejemplo de un número racional y uno irracional usados en economía o finanzas, y justifica por qué pertenecen a cada conjunto.
+
+**Solución:**  
+- Racional: Un interés del 8%, que se expresa como $0.08 = 2/25$ (es fracción exacta).
+- Irracional: La raíz de 2 ($\sqrt{2}$) que aparece en índices de diversificación, su decimal es infinito no periódico.
+
+---
+
+<p style="text-align:center; margin-top:2em;">
+  <a href="../unidad1/sesion2.html"
+     style="background:#1976d2; color:white; padding:1em 2em; border-radius:10px; font-size:1.2em; text-decoration:none; font-weight:bold; box-shadow:0 2px 6px #aaa;">
+    → Siguiente sesión
+  </a>
+</p>

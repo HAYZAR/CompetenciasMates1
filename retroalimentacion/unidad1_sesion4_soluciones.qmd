@@ -1,0 +1,96 @@
+# Soluciones y Retroalimentación – Sesión 4: Ecuaciones Lineales y Cuadráticas
+
+---
+
+## Soluciones a la autoevaluación
+
+**1. ¿Cuál es la solución de $4x - 8 = 0$?**
+
+<span style="color:#1976d2;font-weight:bold">Respuesta correcta:</span> $x = 2$  
+<span style="font-weight:bold">Explicación:</span> $4x - 8 = 0 \implies 4x = 8 \implies x = 2$
+
+---
+
+**2. ¿Cuántas soluciones reales tiene la ecuación $x^2 + 4x + 5 = 0$?**
+
+<span style="color:#1976d2;font-weight:bold">Respuesta correcta:</span> Ninguna  
+<span style="font-weight:bold">Explicación:</span> El discriminante es $D = 4^2 - 4 \cdot 1 \cdot 5 = 16 - 20 = -4 < 0$. No hay soluciones reales.
+
+---
+
+**3. La fórmula cuadrática permite resolver ecuaciones de la forma:**
+
+<span style="color:#1976d2;font-weight:bold">Respuesta correcta:</span> $ax^2 + bx + c = 0$  
+<span style="font-weight:bold">Explicación:</span> La fórmula cuadrática se aplica a ecuaciones polinómicas de grado 2.
+
+---
+
+**4. Si $y = 3x + 9$, ¿cuál es el valor de $x$ para $y = 0$?**
+
+<span style="color:#1976d2;font-weight:bold">Respuesta correcta:</span> $x = -3$  
+<span style="font-weight:bold">Explicación:</span> $0 = 3x + 9 \implies 3x = -9 \implies x = -3$
+
+---
+
+**5. ¿Qué representa el discriminante ($D = b^2 - 4ac$) en una cuadrática?**
+
+<span style="color:#1976d2;font-weight:bold">Respuesta correcta:</span> El número de soluciones reales  
+<span style="font-weight:bold">Explicación:</span> Si $D > 0$ hay dos soluciones, si $D = 0$ una solución, y si $D < 0$ no hay soluciones reales.
+
+---
+
+## Soluciones a problemas abiertos de autoevaluación
+
+::: {.callout-note}
+
+**1. Un fabricante quiere que el ingreso ($I = 8x$) iguale el costo total ($C = 5x + 60$). ¿Cuántas unidades debe vender? ¿Qué significa la solución?**
+
+Solución:  
+$8x = 5x + 60 \implies 3x = 60 \implies x = 20$  
+Interpretación: Debe vender **20 unidades** para que el ingreso cubra exactamente el costo total (punto de equilibrio).
+
+---
+
+**2. Una empresa modela el beneficio con $B = -x^2 + 14x - 45$. ¿Para qué valores de $x$ el beneficio es cero? Interpreta el resultado.**
+
+Solución:  
+$-x^2 + 14x - 45 = 0 \implies x^2 - 14x + 45 = 0$  
+$(x - 5)(x - 9) = 0 \implies x = 5,\ x = 9$  
+Interpretación: El beneficio es cero cuando se producen/venden 5 o 9 unidades. Valores fuera de ese rango generan pérdida.
+
+---
+
+**3. Resuelve y explica: $2x^2 + 10x = 0$ en el contexto de maximizar el uso de un recurso.**
+
+Solución:  
+$2x(x + 5) = 0 \implies x = 0$ o $x = -5$  
+Interpretación: Solo $x = 0$ es válido en contexto real (no se puede producir una cantidad negativa). Cero uso de recurso, punto inicial.
+
+---
+
+**4. Aplica la fórmula cuadrática para $x^2 - 4x - 21 = 0$ y explica un posible contexto administrativo.**
+
+Solución:  
+$x = \frac{4 \pm \sqrt{16 + 84}}{2} = \frac{4 \pm \sqrt{100}}{2} = \frac{4 \pm 10}{2}$  
+$x_1 = 7,\ x_2 = -3$  
+Interpretación: Solo $x = 7$ tiene sentido en administración (cantidad negativa no aplica).
+
+---
+
+**5. Si $P = x^2 - 20x + 96$ modela el costo de producción, ¿para qué valores de $x$ el costo es 0? ¿Cómo interpretarías la solución?**
+
+Solución:  
+$x^2 - 20x + 96 = 0 \implies (x - 12)(x - 8) = 0$  
+$x = 8$ o $x = 12$  
+Interpretación: Con 8 o 12 unidades, el costo es cero (teóricamente); en la práctica, estos pueden ser puntos de equilibrio o análisis de viabilidad.
+
+:::
+
+---
+
+<p style="text-align:center; margin-top:2em;">
+  <a href="../unidad1/sesion5.html"
+     style="background:#1976d2; color:white; padding:1em 2em; border-radius:10px; font-size:1.2em; text-decoration:none; font-weight:bold; box-shadow:0 2px 6px #aaa;">
+    → Siguiente sesión
+  </a>
+</p>

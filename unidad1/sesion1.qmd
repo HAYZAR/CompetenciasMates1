@@ -1,0 +1,207 @@
+---
+title: "Sesión 1: Números Reales, Exponenciales y Radicales"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    css: ../styles.css
+---
+
+::: {.callout-tip appearance="card"}
+**Objetivo de la sesión:**  
+Identificar y aplicar correctamente los números reales, las potencias y los radicales en situaciones cotidianas y en contextos de las ciencias económicas, administrativas y contables.
+:::
+
+---
+
+## 1. Teoría y conceptos
+
+### 1.1 Números Reales
+
+Los **números reales** incluyen todos los números que se pueden ubicar en la recta numérica: naturales, enteros, racionales e irracionales.
+
+**Propiedades principales:**
+- **Conmutativa:** $a + b = b + a$, $a \cdot b = b \cdot a$
+- **Asociativa:** $(a + b) + c = a + (b + c)$, $(a \cdot b) \cdot c = a \cdot (b \cdot c)$
+- **Distributiva:** $a(b + c) = ab + ac$
+- **Neutro:** $a + 0 = a$, $a \cdot 1 = a$
+- **Opuesto/Inverso:** $a + (-a) = 0$, $a \cdot (1/a) = 1$ (si $a \neq 0$)
+- **Cerradura:** La suma o producto de dos reales es real.
+- **Densidad:** Entre dos números reales distintos siempre hay otro real.
+
+*Ejemplo aplicado:*  
+El total de ingresos sumando $4 + 5 = 9$ es igual a $5 + 4 = 9$ gracias a la conmutatividad.  
+En balances, sumar partidas en cualquier orden no afecta el resultado.
+
+---
+
+### 1.2 Potencias y Exponentes
+
+Una **potencia** es una multiplicación repetida: $a^n = a \times a \times \cdots \times a$ (n veces).
+
+**Propiedades clave:**
+- $a^m \cdot a^n = a^{m+n}$
+- $a^m / a^n = a^{m-n}$
+- $(a^m)^n = a^{mn}$
+- $(ab)^n = a^n b^n$
+- $(a/b)^n = a^n / b^n$
+- $a^0 = 1$ (si $a \neq 0$)
+- $a^{-n} = 1/a^n$
+- $a^{1/n} = \sqrt[n]{a}$
+
+*Ejemplo aplicado:*  
+Interés compuesto: $A = 1000 \times (1 + 0.05)^3 \approx \$1157.63$
+
+---
+
+### 1.3 Radicales
+
+Un **radical** es la raíz de un número: $\sqrt[n]{a} = a^{1/n}$
+
+**Propiedades útiles:**
+- $\sqrt[n]{a} \cdot \sqrt[n]{b} = \sqrt[n]{ab}$
+- $\sqrt[n]{a}/\sqrt[n]{b} = \sqrt[n]{a/b}$
+- $\sqrt[n]{a^m} = a^{m/n}$
+- $\sqrt[m]{\sqrt[n]{a}} = \sqrt[mn]{a}$
+
+*Ejemplo aplicado:*  
+Diagonal de un cuadrado de lado 5: $\sqrt{5^2 + 5^2} = \sqrt{50} \approx 7.07$
+
+---
+
+## 2. Ejercicios resueltos
+
+1. **¿Por qué $-\sqrt{5}$ es irracional?**  
+   Porque no puede expresarse como fracción y su decimal es infinito/no periódico.
+
+2. **Calcula $2^3 \cdot 2^{-1}$ y explica:**  
+   $2^3 = 8$, $2^{-1} = 1/2$, $8 \cdot 1/2 = 4$ (usando $a^m \cdot a^n = a^{m+n}$).
+
+3. **Interés compuesto:**  
+   $A = 1000 \times (1 + 0.06)^2 = 1000 \times 1.1236 = \$1,123.60$
+
+4. **Simplifica $\sqrt{18}$:**  
+   $\sqrt{18} = \sqrt{9 \cdot 2} = 3\sqrt{2}$
+
+5. **Desviación estándar (ingresos de \$500, \$800, \$700):**  
+   $\bar{x} = 666.67$  
+   Suma cuadrados: $46666.67$  
+   Promedio: $15555.56$  
+   Desviación estándar: $\sqrt{15555.56} \approx 124.7$
+
+---
+
+## 3. Ejercicios propuestos
+
+1. Determina si $-\pi$ es racional o irracional. Explica.
+2. Calcula $5^0 + 2^3$ y justifica.
+3. Expresa $\sqrt[3]{27}$ como potencia.
+4. Un producto cuesta \$120 y tiene un descuento del 15%. ¿Precio final?
+5. Un capital de \$2,000 se invierte a 5% anual 3 años (interés compuesto). ¿Monto final?
+6. Simplifica $3^2 \cdot 3^4$ y explica.
+7. Calcula $\sqrt{49} + \sqrt{25}$.
+8. ¿A qué conjunto pertenece $0.333\ldots$? ¿Por qué?
+9. ¿Qué valor tiene $4^{-1}$? Interpreta.
+10. Da un ejemplo de uso de raíz cuadrada en economía y resuélvelo.
+
+---
+
+## 4. Autoevaluación
+
+### Test (selección múltiple, única respuesta)
+
+```{=html}
+<div id="quiz">
+<p><strong>1. ¿Cuál de estos números es irracional?</strong></p>
+<input type="radio" name="q1" value="0"> a) 0.25<br>
+<input type="radio" name="q1" value="1"> b) $\sqrt{7}$<br>
+<input type="radio" name="q1" value="0"> c) $-\frac{5}{2}$<br>
+<input type="radio" name="q1" value="0"> d) 0<br>
+<p><strong>2. ¿Cuánto es $3^2 \cdot 3^3$?</strong></p>
+<input type="radio" name="q2" value="0"> a) 15<br>
+<input type="radio" name="q2" value="1"> b) 243<br>
+<input type="radio" name="q2" value="0"> c) 27<br>
+<input type="radio" name="q2" value="0"> d) 81<br>
+<p><strong>3. ¿Qué representa $a^{-3}$?</strong></p>
+<input type="radio" name="q3" value="0"> a) $a^3$<br>
+<input type="radio" name="q3" value="0"> b) $-a^3$<br>
+<input type="radio" name="q3" value="1"> c) $1/a^3$<br>
+<input type="radio" name="q3" value="0"> d) $-1/a^3$<br>
+<p><strong>4. ¿Cuál es la raíz cuadrada de 144?</strong></p>
+<input type="radio" name="q4" value="1"> a) 12<br>
+<input type="radio" name="q4" value="0"> b) 14<br>
+<input type="radio" name="q4" value="0"> c) 24<br>
+<input type="radio" name="q4" value="0"> d) 6<br>
+<p><strong>5. En una fórmula de interés compuesto, el exponente "n" representa:</strong></p>
+<input type="radio" name="q5" value="0"> a) Capital inicial<br>
+<input type="radio" name="q5" value="0"> b) Tasa de interés<br>
+<input type="radio" name="q5" value="1"> c) Número de periodos<br>
+<input type="radio" name="q5" value="0"> d) Interés generado<br>
+<br>
+<button onclick="checkQuiz()">Ver resultado</button>
+<div id="quiz-feedback" style="margin-top:1em; font-weight:bold;"></div>
+</div>
+<script>
+function checkQuiz() {
+    let score = 0;
+    let total = 5;
+    let feedback = "";
+    let answers = [document.querySelector('input[name="q1"]:checked'),
+                   document.querySelector('input[name="q2"]:checked'),
+                   document.querySelector('input[name="q3"]:checked'),
+                   document.querySelector('input[name="q4"]:checked'),
+                   document.querySelector('input[name="q5"]:checked')];
+
+    if (answers.includes(null)) {
+      feedback = "Por favor responde todas las preguntas antes de ver el resultado.";
+      document.getElementById("quiz-feedback").innerHTML = feedback;
+      return;
+    }
+
+    for (let i=0; i<total; i++) {
+        score += Number(answers[i].value);
+    }
+
+    feedback = "Tu puntaje: " + score + " de " + total + ".<br>";
+
+    let explanations = [
+        "1. $\\sqrt{7}$ es irracional: su expresión decimal es infinita y no periódica.",
+        "2. $3^2 \\cdot 3^3 = 3^{2+3} = 3^5 = 243$.",
+        "3. $a^{-3} = 1/a^3$.",
+        "4. La raíz cuadrada de 144 es 12.",
+        "5. El exponente 'n' en interés compuesto es el número de periodos."
+    ];
+    feedback += "<ul>";
+    for (let i=0; i<total; i++) {
+        let correct = answers[i].value == "1";
+        let color = correct ? "green" : "red";
+        feedback += `<li style="color:${color}">${explanations[i]}</li>`;
+    }
+    feedback += "</ul>";
+    document.getElementById("quiz-feedback").innerHTML = feedback;
+}
+</script>
+
+## Problemas abiertos de autoevaluación
+
+1. Una empresa reporta ingresos trimestrales de \$400, \$550 y \$650. Calcula la desviación estándar de estos ingresos y explica qué significa ese valor para la empresa.
+
+2. Demuestra con un ejemplo real cómo la propiedad distributiva puede ser útil al calcular el costo total de varios productos comprados en diferentes cantidades y precios.
+
+3. Un crédito de \$5,000 se otorga a una tasa de 10% anual durante 2 años. Calcula el valor final aplicando interés compuesto.
+
+4. Explica un caso donde el cálculo de una raíz cuadrada es relevante en la administración o economía, resuelve el cálculo y explica su significado.
+
+5. Da un ejemplo de un número racional y uno irracional usados en economía o finanzas, y justifica por qué pertenecen a cada conjunto.
+
+<p style="text-align:center; margin-top:2em;">
+  <a href="../retroalimentacion/unidad1_sesion1_soluciones.html"
+     style="background:#1976d2; color:white; padding:1em 2em; border-radius:10px; font-size:1.2em; text-decoration:none; font-weight:bold; box-shadow:0 2px 6px #aaa;">
+    📘 Ver retroalimentación y soluciones
+  </a>
+  <a href="sesion2.html"
+     style="background:#1565c0; color:white; padding:1em 2em; border-radius:10px; font-size:1.2em; text-decoration:none; font-weight:bold; box-shadow:0 2px 6px #aaa; margin-left:2em;">
+    &rarr; Siguiente sesión
+  </a>
+</p>

@@ -1,0 +1,30 @@
+.nav-buttons { margin: 24px 0; }
+.nav-btn {
+  background: #1565c0; color: #fff; padding: 8px 18px; margin: 4px 4px 4px 0;
+  border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1em;
+  transition: background 0.2s; display: inline-block;
+}
+.nav-btn:hover { background: #1976d2; }
+.callout-tip { background: #e3f2fd; border-left: 4px solid #1976d2; }
+.callout-note { background: #fffde7; border-left: 4px solid #fbc02d; }
+.callout-question { background: #fce4ec; border-left: 4px solid #c2185b; }
+.quiz-box { background: #f1f8e9; border: 1px solid #388e3c; border-radius: 7px; padding: 20px; margin: 20px 0; }
+/* Diferencia los callout de retroalimentación */
+.callout-tip, .callout-note {
+  background-color: #e3f2fd !important;   /* Azul muy claro */
+  border-left: 5px solid #1976d2 !important;  /* Azul fuerte */
+  color: #153060 !important;               /* Texto azul oscuro */
+}
+.callout-tip .callout-title, .callout-note .callout-title {
+  color: #1976d2 !important; /* Azul fuerte para títulos */
+}
+.callout-warning {
+  background-color: #fff3e0 !important;
+  border-left: 5px solid #ffa726 !important;
+}
+/* Separador visual extra */
+hr.custom-sep {
+  border: none;
+  border-top: 2px dashed #b0bec5;
+  margin: 1.5em 0;
+}

@@ -1,0 +1,101 @@
+---
+title: "Retroalimentación y Soluciones: Sesión 5 — Aplicaciones de Ecuaciones"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: ../../styles.css
+---
+
+::: {.callout-success}
+## ✅ ¡Has llegado a la retroalimentación y soluciones de la sesión 5!
+
+En esta página encontrarás explicaciones detalladas y respuestas tanto de la autoevaluación como de los problemas abiertos propuestos en la sesión. ¡Revisa, aprende y refuerza tus competencias!
+:::
+
+---
+
+## 1. Soluciones a la autoevaluación
+
+::: {.callout-note}
+**1. ¿Cuál es el punto de equilibrio si $C = 4x + 60$ y $R = 10x$?**  
+**Solución:** Igualamos ingresos y costos: $10x = 4x + 60 \implies 6x = 60 \implies x = 10$.  
+**Interpretación:** Se necesitan vender 10 unidades para cubrir los costos con los ingresos.
+
+---
+
+**2. ¿Cuántas soluciones tiene $x^2 - 6x + 9 = 0$?**  
+**Solución:** Calculamos el discriminante $D = b^2 - 4ac = (-6)^2 - 4(1)(9) = 36 - 36 = 0$.  
+**Conclusión:** Hay **una única solución real**.
+
+---
+
+**3. ¿Qué representa el discriminante $D$ en una cuadrática?**  
+**Solución:** Indica **el número de soluciones reales**.  
+- Si $D > 0$ hay dos soluciones reales.
+- Si $D = 0$ hay una solución real.
+- Si $D < 0$ no hay soluciones reales.
+
+---
+
+**4. Una empresa con $C = 6x + 48$ e ingresos $R = 18x$. ¿Cuántas unidades para equilibrio?**  
+**Solución:** $18x = 6x + 48 \implies 12x = 48 \implies x = 4$.
+
+---
+
+**5. El beneficio $P = -x^2 + 14x - 49$ es cero para:**  
+**Solución:** $-x^2 + 14x - 49 = 0 \implies (x - 7)^2 = 0 \implies x = 7$.
+:::
+
+---
+
+## 2. Soluciones a los problemas abiertos
+
+::: {.callout-info}
+**1. Una fábrica produce costos $C = 8x + 120$ y genera ingresos $R = 20x$. ¿Cuántas unidades debe vender para igualar ingresos y costos?**  
+Igualamos: $20x = 8x + 120 \implies 12x = 120 \implies x = 10$.  
+**Respuesta:** Debe vender **10 unidades** para el equilibrio.
+
+---
+
+**2. Un terreno tiene área máxima cuando $A = x(30 - x)$. ¿Para qué $x$ se maximiza el área? ¿Cuál es el área máxima?**  
+$A = x(30 - x) = 30x - x^2$ es una parábola hacia abajo. El vértice se halla con $x_v = -b/(2a) = -30/(-2) = 15$.  
+Área máxima: $A_{max} = 15(30 - 15) = 225$.  
+**Respuesta:** Se maximiza para $x = 15$ y área máxima $A = 225$.
+
+---
+
+**3. Una inversión tiene beneficio $P = -4x^2 + 64x - 256$. ¿Para qué valores de $x$ el beneficio es cero?**  
+Resolviendo $-4x^2 + 64x - 256 = 0 \implies x^2 - 16x + 64 = 0 \implies (x - 8)^2 = 0 \implies x = 8$.  
+**Respuesta:** El beneficio es cero para $x = 8$.
+
+---
+
+**4. En finanzas, el ingreso es $R = -x^2 + 40x$. ¿Para qué valores de $x$ el ingreso es $0$?**  
+$-x^2 + 40x = 0 \implies x(-x + 40) = 0 \implies x = 0$ o $x = 40$.  
+**Respuesta:** El ingreso es cero para $x = 0$ y $x = 40$.
+
+---
+
+**5. Plantea y resuelve un problema de punto de equilibrio en un contexto real de tu interés (empresa, proyecto, etc.).**  
+_Ejemplo:_ Una cafetería tiene un costo fijo de $200$ y cada café cuesta $3$ en insumos. Vende cada café a $5$. ¿Cuántos cafés debe vender para no tener pérdidas?  
+Ecuación: $5x = 3x + 200 \implies 2x = 200 \implies x = 100$.  
+**Respuesta:** Debe vender **100 cafés** para alcanzar el punto de equilibrio.
+:::
+
+---
+
+## 3. ¿Quieres reforzar?
+
+- Practica con más problemas de tu contexto profesional.
+- Usa simuladores y hojas de cálculo para comprobar soluciones.
+- Consulta los recursos digitales y videos recomendados.
+
+---
+
+<p style="text-align:center; margin-top:2em;">
+  <a href="../../unidad1/sesion5.html"
+     style="background:#1976d2; color:white; padding:1em 2em; border-radius:10px; font-size:1.1em; text-decoration:none; font-weight:bold; box-shadow:0 2px 6px #aaa;">
+    ⬅️ Volver a la sesión 5
+  </a>
+</p>

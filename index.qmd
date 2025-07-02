@@ -1,0 +1,58 @@
+---
+title: "Competencias Matemáticas I"
+format:
+  html:
+    theme: cosmo
+    toc: false
+    page-layout: full
+---
+
+::: {style="display:flex; align-items:center; gap:1.5em; margin-bottom:2em;"}
+<img src="images/logo_CUR.jpg" alt="Logo CUR" style="height:90px;"/>
+
+<h1 style="font-size:2.4em; color:#1976d2; font-weight:bold; margin-bottom:0;">
+
+Competencias Matemáticas I
+
+</h1>
+:::
+
+::: callout-tip
+**Bienvenido(a) al curso “Competencias Matemáticas I”**\
+En este curso desarrollarás habilidades matemáticas esenciales para tu formación en ciencias económicas, administrativas y contables, con énfasis en la aplicación práctica y el análisis crítico.
+:::
+
+------------------------------------------------------------------------
+
+## Objetivos del curso
+
+-   Desarrollar competencias matemáticas para resolver problemas en contextos económicos, administrativos y contables.
+-   Potenciar el pensamiento lógico, el análisis y la interpretación de información cuantitativa.
+-   Aplicar conceptos fundamentales de álgebra, funciones y modelación matemática a situaciones reales del entorno profesional.
+
+------------------------------------------------------------------------
+
+## ¿Cómo navegar el curso?
+
+El curso está organizado en **3 unidades**, cada una con **5 sesiones de trabajo**. En cada sesión encontrarás:
+
+-   Teoría y conceptos fundamentales, con ejemplos aplicados.
+-   Ejercicios resueltos y propuestos.
+-   Autoevaluaciones interactivas y ejercicios abiertos.
+-   Espacios para la retroalimentación y discusión.
+
+Al finalizar cada sesión, podrás acceder a la retroalimentación detallada y pasar a la siguiente sesión con los botones de navegación.
+
+<div style="display: flex; flex-wrap:wrap; gap:2em; margin: 2em 0;"> <div style="background:#f1f8fe;padding:1.5em 1em;border-radius:1.2em;flex:1;min-width:260px;box-shadow:0 2px 8px #dde9f5;"> <h3 style="color:#1976d2;font-weight:bold;">Unidad 1</h3> <ul> <li>Números reales, exponenciales y radicales</li> <li>Expresiones algebraicas y operaciones</li> <li>Factorización y fracciones</li> <li>Ecuaciones lineales y cuadráticas</li> <li>Aplicaciones y problemas contextualizados</li> </ul> <a href="unidad1/index.html" style="display:inline-block;margin-top:1em;background:#1976d2;color:#fff;padding:0.5em 1.5em;border-radius:0.7em;text-decoration:none;font-weight:bold;">Ver Unidad 1</a> </div> <div style="background:#f1f8fe;padding:1.5em 1em;border-radius:1.2em;flex:1;min-width:260px;box-shadow:0 2px 8px #dde9f5;"> <h3 style="color:#1976d2;font-weight:bold;">Unidad 2</h3> <ul> <li>Desigualdades y valor absoluto</li> <li>Funciones y gráficas</li> <li>Combinación de funciones</li> <li>Coordenadas rectangulares y gráficas</li> <li>Aplicaciones prácticas</li> </ul> <a href="unidad2/index.html" style="display:inline-block;margin-top:1em;background:#1976d2;color:#fff;padding:0.5em 1.5em;border-radius:0.7em;text-decoration:none;font-weight:bold;">Ver Unidad 2</a> </div> <div style="background:#f1f8fe;padding:1.5em 1em;border-radius:1.2em;flex:1;min-width:260px;box-shadow:0 2px 8px #dde9f5;"> <h3 style="color:#1976d2;font-weight:bold;">Unidad 3</h3> <ul> <li>Simetría, traslaciones y rectas</li> <li>Funciones lineales y cuadráticas</li> <li>Sistemas de ecuaciones</li> <li>Sistemas no lineales y aplicaciones</li> <li>Funciones exponenciales y logarítmicas</li> </ul> <a href="unidad3/index.html" style="display:inline-block;margin-top:1em;background:#1976d2;color:#fff;padding:0.5em 1.5em;border-radius:0.7em;text-decoration:none;font-weight:bold;">Ver Unidad 3</a> </div> </div>
+
+## Recursos de apoyo y contacto
+
+-   [Bibliografía y recursos digitales](recursos.html)
+-   Consultas académicas y soporte técnico: [correo\h.hernandez@unireformada.edu.co](mailto:h.hernandez@unireformada.edu.co)
+-   Espacio de foros y retroalimentación disponible en cada sesión.
+
+------------------------------------------------------------------------
+
+::: {style="margin-top:3em;text-align:center;color:#888;font-size:1.1em;"}
+© 2025 Corporación Universitaria Reformada – Competencias Matemáticas I
+:::

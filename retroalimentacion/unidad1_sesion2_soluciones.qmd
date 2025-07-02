@@ -1,0 +1,100 @@
+# Soluciones y Retroalimentación – Sesión 2: Operaciones con Expresiones Algebraicas
+
+---
+
+## Soluciones a la autoevaluación
+
+**1. ¿Cuál es la suma de $3x + 5$ y $4x - 2$?**
+
+<span style="color:#1976d2;font-weight:bold">Respuesta correcta:</span> $7x + 3$  
+<span style="font-weight:bold">Explicación:</span> Suma de términos semejantes: $(3x + 4x) + (5 - 2) = 7x + 3$
+
+---
+
+**2. ¿Cómo se simplifica $2(x + 3) - 4x$?**
+
+<span style="color:#1976d2;font-weight:bold">Respuesta correcta:</span> $-2x + 6$  
+<span style="font-weight:bold">Explicación:</span> $2(x + 3) = 2x + 6$, $2x + 6 - 4x = -2x + 6$
+
+---
+
+**3. ¿Cuál es el resultado de multiplicar $(x + 2)(x + 3)$?**
+
+<span style="color:#1976d2;font-weight:bold">Respuesta correcta:</span> $x^2 + 5x + 6$  
+<span style="font-weight:bold">Explicación:</span> Aplicamos distributiva: $x(x+3) + 2(x+3) = x^2 + 3x + 2x + 6 = x^2 + 5x + 6$
+
+---
+
+**4. Si $6x^3$ se divide entre $2x$, el resultado es:**
+
+<span style="color:#1976d2;font-weight:bold">Respuesta correcta:</span> $3x^2$  
+<span style="font-weight:bold">Explicación:</span> $6x^3 / 2x = 3x^{3-1} = 3x^2$
+
+---
+
+**5. Al simplificar $4x + 2y - 3x + 5y$, obtenemos:**
+
+<span style="color:#1976d2;font-weight:bold">Respuesta correcta:</span> $x + 7y$  
+<span style="font-weight:bold">Explicación:</span> Sumamos $4x - 3x = x$ y $2y + 5y = 7y$
+
+---
+
+## Soluciones a problemas abiertos de autoevaluación
+
+::: {.callout-note}
+**1. Modelar costos con expresiones algebraicas**  
+Una empresa tiene un costo fijo de \$80 y un costo variable de \$7 por cada producto. Si vende $x$ productos a \$12 cada uno, ¿cuál es la expresión del beneficio y qué significa?
+
+**Solución:**  
+Ingreso: $12x$  
+Costo total: $7x + 80$  
+Beneficio: $12x - (7x + 80) = 5x - 80$  
+$5x$ es la ganancia por producto vendido.  
+$80$ es el costo fijo a recuperar antes de obtener ganancias.
+
+---
+
+**2. Aplicación administrativa**  
+Si dos procesos de una empresa toman $(4x + 3)$ y $(2x - 1)$ horas respectivamente, ¿cuánto tiempo total toman juntos? ¿Y si hay que repetir ambos dos veces?
+
+**Solución:**  
+Tiempo total una vez: $4x + 3 + 2x - 1 = 6x + 2$ horas  
+Repetidos dos veces: $2(6x + 2) = 12x + 4$ horas
+
+---
+
+**3. Interpretación de la división de expresiones**  
+Un costo total de producción es $5x^2 + 10x$ y se divide entre $5x$. ¿Cuál es el resultado y su interpretación?
+
+**Solución:**  
+$\dfrac{5x^2 + 10x}{5x} = \dfrac{5x^2}{5x} + \dfrac{10x}{5x} = x + 2$  
+Interpretación: El costo por unidad es $x + 2$.
+
+---
+
+**4. Simplificación aplicada a ganancias**  
+Una empresa tiene ingresos de $(8x + 15)$ y gastos de $(3x + 9)$. ¿Cuál es la expresión simplificada para la ganancia?
+
+**Solución:**  
+$8x + 15 - (3x + 9) = 8x + 15 - 3x - 9 = 5x + 6$  
+La ganancia es $5x + 6$.
+
+---
+
+**5. Contexto financiero**  
+Si el presupuesto de dos departamentos es $(2x + 5y)$ y $(3x - y)$, ¿cuál es el presupuesto total y cómo se interpreta?
+
+**Solución:**  
+$2x + 5y + 3x - y = 5x + 4y$  
+El total depende de $x$ (por ejemplo, unidades producidas) y $y$ (otra variable relevante, como personal).
+
+:::
+
+---
+
+<p style="text-align:center; margin-top:2em;">
+  <a href="../unidad1/sesion3.html"
+     style="background:#1976d2; color:white; padding:1em 2em; border-radius:10px; font-size:1.2em; text-decoration:none; font-weight:bold; box-shadow:0 2px 6px #aaa;">
+    → Siguiente sesión
+  </a>
+</p>

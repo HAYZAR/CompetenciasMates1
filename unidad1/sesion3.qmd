@@ -1,0 +1,254 @@
+---
+title: "Sesión 3: Factorización y Fracciones"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: ../styles.css
+---
+
+::: {.callout-tip}
+**Objetivo de la sesión:**  
+Comprender y aplicar la factorización y las fracciones algebraicas para simplificar expresiones y resolver problemas prácticos en contextos económicos, administrativos y contables.
+:::
+
+---
+
+::: {.callout-note collapse="true"}
+## 1. Introducción a la Factorización y Fracciones
+
+La factorización y las fracciones algebraicas son herramientas esenciales en álgebra que permiten simplificar expresiones y resolver ecuaciones de manera eficiente.  
+- **Factorización:** descompone una expresión en factores más simples.  
+- **Fracciones algebraicas:** modelan proporciones y tasas, clave para analizar costos, ingresos, recursos o tasas de crecimiento en economía y administración.
+:::
+
+---
+
+::: {.callout-note collapse="true"}
+## 2. Teoría y conceptos
+
+### 2.1 Factorización
+
+**Definición:** Proceso de expresar un polinomio como el producto de factores más simples.
+
+#### Métodos de Factorización
+
+- **Factor común:**  
+  $6x^2 + 9x = 3x(2x + 3)$  
+  _Ejemplo aplicado_: Simplifica el costo total de producción $12x^2 + 18x = 6x(2x + 3)$.
+
+- **Diferencia de cuadrados:**  
+  $a^2 - b^2 = (a-b)(a+b)$  
+  _Ejemplo_: $x^2 - 16 = (x-4)(x+4)$  
+  _Contexto aplicado_: Modelar la diferencia de áreas en diseño.
+
+- **Trinomio cuadrático:**  
+  $ax^2 + bx + c = (px+q)(rx+s)$  
+  _Ejemplo_: $x^2 + 5x + 6 = (x+2)(x+3)$  
+  _Contexto aplicado_: Optimización de beneficios en administración.
+
+- **Suma o diferencia de cubos:**  
+  $a^3 + b^3 = (a + b)(a^2 - ab + b^2)$  
+  $a^3 - b^3 = (a - b)(a^2 + ab + b^2)$  
+  _Ejemplo_: $x^3 - 8 = (x-2)(x^2 + 2x + 4)$  
+  _Contexto aplicado_: Análisis de volúmenes en ingeniería.
+
+**¿Para qué sirve factorizar?**  
+Simplificar expresiones, resolver ecuaciones y modelar problemas reales (costos, áreas, volúmenes).
+
+---
+
+### 2.2 Fracciones Algebraicas
+
+**Definición:** Expresión de la forma $\frac{P(x)}{Q(x)}$, con $P(x), Q(x)$ polinomios y $Q(x) \neq 0$.
+
+#### Operaciones básicas
+
+- **Simplificación:**  
+  $\frac{2x^2 + 4x}{x} = 2x + 4$  
+  _Ejemplo aplicado_: Simplificar relación entre costos variables y unidades producidas.
+
+- **Suma y resta (denominador común):**  
+  $\frac{3}{x} + \frac{2}{x+1} = \frac{3(x+1) + 2x}{x(x+1)} = \frac{5x+3}{x(x+1)}$  
+  _Ejemplo aplicado_: Sumar tasas de producción de dos procesos.
+
+- **Multiplicación:**  
+  $\frac{x}{x+1} \cdot \frac{x+2}{x} = \frac{x(x+2)}{x(x+1)} = \frac{x+2}{x+1}$  
+  _Ejemplo aplicado_: Calcular proporciones en análisis financiero.
+
+- **División:**  
+  $\frac{x}{x+1} \div \frac{x}{x+2} = \frac{x}{x+1} \cdot \frac{x+2}{x} = \frac{x+2}{x+1}$  
+  _Ejemplo aplicado_: Dividir beneficios entre departamentos.
+
+**Propiedades útiles:**
+- Siempre factoriza antes de simplificar.
+- Para suma/resta, usa el MCM (mínimo común múltiplo) de los denominadores.
+
+:::
+
+---
+
+::: {.callout-note collapse="true"}
+## 3. Aplicaciones Prácticas
+
+- **Economía:**  
+  - Factoriza modelos de costos, como $4x^2 + 8x = 4x(x+2)$.  
+  - Fracciones algebraicas para tasas de crecimiento: $\frac{2x}{x+5}$.
+- **Administración:**  
+  - Factoriza para optimizar producción.  
+  - Fracciones para analizar ratios financieros.
+- **Finanzas:**  
+  - Usa fracciones algebraicas para tasas de retorno o márgenes de ganancia.
+:::
+
+---
+
+::: {.callout-note collapse="true"}
+## 4. Ejemplos Aplicados
+
+- **Contexto económico:**  
+  Factoriza $x^2 + 5x + 6 = (x+2)(x+3)$ para ver los componentes del costo.
+- **Contexto administrativo:**  
+  Simplifica $\frac{6x^2 + 12x}{3x} = 2x + 4$ para hallar el costo unitario.
+- **Contexto financiero:**  
+  Suma $\frac{4}{x} + \frac{5}{x+2} = \frac{9x+8}{x(x+2)}$ para combinar tasas de retorno.
+
+:::
+
+---
+
+## 5. Ejercicios resueltos
+
+1. **Factoriza:** $8x^2 + 12x = 4x(2x + 3)$  
+   _Explicación_: Se extrae el factor común $4x$.
+
+2. **Diferencia de cuadrados:** $y^2 - 25 = (y - 5)(y + 5)$  
+   _Contexto_: Diferencia entre ingresos proyectados y reales.
+
+3. **Simplifica:** $\frac{3x^2 + 6x}{3x} = x + 2$  
+   _Contexto_: Relación entre costos y unidades producidas.
+
+4. **Suma de fracciones:** $\frac{1}{x} + \frac{2}{x+1} = \frac{(x+1) + 2x}{x(x+1)} = \frac{3x+1}{x(x+1)}$  
+   _Explicación_: Se usó MCM como denominador común.
+
+5. **Multiplicación de fracciones:** $\frac{x-1}{x+2} \cdot \frac{x+2}{x-1} = 1$  
+   _Contexto_: Cancelación de factores comunes.
+
+---
+
+## 6. Ejercicios propuestos
+
+1. Factoriza $5x^2 + 15x$.
+2. Simplifica $\frac{4x^2 + 8x}{4x}$.
+3. Suma $\frac{2}{x} + \frac{3}{x+1}$.
+4. Resta $\frac{5}{x+2} - \frac{2}{x}$.
+5. Multiplica $\frac{x+1}{x} \cdot \frac{2x}{x+3}$.
+6. Divide $\frac{x^2-9}{x+3} \div \frac{x-3}{x}$.
+7. Factoriza $a^2 - 9b^2$.
+8. Simplifica $\frac{x^2 + 4x + 4}{x+2}$.
+9. Suma $\frac{1}{x-1} + \frac{1}{x+1}$.
+10. Resuelve: Si $\frac{6x+12}{3x} = 4$, ¿cuánto vale $x$?
+
+---
+
+## 7. Autoevaluación
+
+### Test (selección múltiple, única respuesta)
+
+```{=html}
+<div id="quiz3">
+<p><strong>1. ¿Cuál es la factorización de $x^2 - 9$?</strong></p>
+<input type="radio" name="q1" value="0"> a) $(x-3)^2$<br>
+<input type="radio" name="q1" value="1"> b) $(x-3)(x+3)$<br>
+<input type="radio" name="q1" value="0"> c) $(x+9)$<br>
+<input type="radio" name="q1" value="0"> d) $x^2+9$<br>
+
+<p><strong>2. ¿Cuál es el resultado de simplificar $\frac{4x^2 + 8x}{4x}$?</strong></p>
+<input type="radio" name="q2" value="1"> a) $x + 2$<br>
+<input type="radio" name="q2" value="0"> b) $x^2 + 2$<br>
+<input type="radio" name="q2" value="0"> c) $x^2 + 8$<br>
+<input type="radio" name="q2" value="0"> d) $4x + 8$<br>
+
+<p><strong>3. La suma $\frac{2}{x} + \frac{3}{x+1}$ tiene como denominador común:</strong></p>
+<input type="radio" name="q3" value="1"> a) $x(x+1)$<br>
+<input type="radio" name="q3" value="0"> b) $x+1$<br>
+<input type="radio" name="q3" value="0"> c) $x$<br>
+<input type="radio" name="q3" value="0"> d) $x^2+1$<br>
+
+<p><strong>4. ¿Qué resultado da la multiplicación $\frac{x-1}{x+2} \cdot \frac{x+2}{x-1}$?</strong></p>
+<input type="radio" name="q4" value="1"> a) $1$<br>
+<input type="radio" name="q4" value="0"> b) $x+2$<br>
+<input type="radio" name="q4" value="0"> c) $x-1$<br>
+<input type="radio" name="q4" value="0"> d) $x^2-1$<br>
+
+<p><strong>5. ¿Cuál es el factor común de $12x^2 + 18x$?</strong></p>
+<input type="radio" name="q5" value="0"> a) $2x$<br>
+<input type="radio" name="q5" value="1"> b) $6x$<br>
+<input type="radio" name="q5" value="0"> c) $12$<br>
+<input type="radio" name="q5" value="0"> d) $3x$<br>
+
+<br>
+<button onclick="checkQuiz3()">Ver resultado</button>
+<div id="quiz3-feedback" style="margin-top:1em; font-weight:bold;"></div>
+</div>
+<script>
+function checkQuiz3() {
+    let score = 0;
+    let total = 5;
+    let feedback = "";
+    let answers = [document.querySelector('input[name="q1"]:checked'),
+                   document.querySelector('input[name="q2"]:checked'),
+                   document.querySelector('input[name="q3"]:checked'),
+                   document.querySelector('input[name="q4"]:checked'),
+                   document.querySelector('input[name="q5"]:checked')];
+
+    if (answers.includes(null)) {
+      feedback = "Por favor responde todas las preguntas antes de ver el resultado.";
+      document.getElementById("quiz3-feedback").innerHTML = feedback;
+      return;
+    }
+
+    for (let i=0; i<total; i++) {
+        score += Number(answers[i].value);
+    }
+
+    feedback = "Tu puntaje: " + score + " de " + total + ".<br>";
+
+    let explanations = [
+        "1. $(x^2 - 9)$ es una diferencia de cuadrados: $(x-3)(x+3)$.",
+        "2. $4x^2 + 8x = 4x(x + 2)$. Al simplificar: $(4x^2 + 8x)/(4x) = x + 2$.",
+        "3. El denominador común de $x$ y $x+1$ es $x(x+1)$.",
+        "4. La multiplicación cancela factores: $((x-1)/(x+2))((x+2)/(x-1)) = 1$.",
+        "5. $12x^2 + 18x$ tiene como factor común $6x$."
+    ];
+    feedback += "<ul>";
+    for (let i=0; i<total; i++) {
+        let correct = answers[i].value == "1";
+        let color = correct ? "green" : "red";
+        feedback += `<li style="color:${color}">${explanations[i]}</li>`;
+    }
+    feedback += "</ul>";
+    document.getElementById("quiz3-feedback").innerHTML = feedback;
+}
+</script>
+
+<details> <summary><strong>Problemas abiertos de autoevaluación</strong></summary>
+
+1. Factoriza $9x^2 - 16$ y explica en qué contexto se puede aplicar (por ejemplo, comparación de áreas).
+
+2. Simplifica $\frac{x^2 + 3x}{x}$ y da un ejemplo financiero de su utilidad.
+
+3. Suma y simplifica: $\frac{5}{x} + \frac{4}{x+2}$. Explica una posible interpretación administrativa.
+
+4. Un proceso productivo tiene costos modelados por $C = 2x^2 + 8x$. ¿Cómo puedes simplificar y qué representa cada factor?
+
+5. Divide: $\frac{x^2 - 4}{x+2} \div \frac{x-2}{x}$ y explica el procedimiento paso a paso.
+
+</details>
+
+<p style="text-align:center; margin-top:2em;">
+  <a href="../retroalimentacion/unidad1_sesion3_soluciones.html"
+     style="background:#1976d2; color:white; padding:1em 2em; border-radius:10px; font-size:1.2em; text-decoration:none; font-weight:bold; box-shadow:0 2px 6px #aaa;">
+    📘 Ver retroalimentación y soluciones
+  </a>
+</p>

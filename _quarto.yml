@@ -1,0 +1,67 @@
+project:
+  type: website
+output-dir: docs
+website:
+  title: "Competencias Matemáticas I"
+  navbar:
+    left:
+      - text: "Inicio"
+        href: index.html
+      - text: "Unidad 1"
+        menu:
+          - text: "Portada"
+            href: unidad1/index.html
+          - text: "Números reales, exponenciales y radicales"
+            href: unidad1/sesion1.html
+          - text: "Retroalimentación Sesión 1"
+            href: unidad1/retro_sesion1.html
+          - text: "Expresiones algebraicas y operaciones"
+            href: unidad1/sesion2.html
+          - text: "Retroalimentación Sesión 2"
+            href: unidad1/retro_sesion2.html
+          - text: "Factorización y fracciones"
+            href: unidad1/sesion3.html
+          - text: "Retroalimentación Sesión 3"
+            href: unidad1/retro_sesion3.html
+          - text: "Ecuaciones lineales y cuadráticas"
+            href: unidad1/sesion4.html
+          - text: "Retroalimentación Sesión 4"
+            href: unidad1/retro_sesion4.html
+          - text: "Aplicaciones y problemas contextualizados"
+            href: unidad1/sesion5.html
+          - text: "Retroalimentación Sesión 5"
+            href: unidad1/retro_sesion5.html
+      - text: "Unidad 2"
+        menu:
+          - text: "Portada"
+            href: unidad2/index.html
+          - text: "Sesión 1"
+            href: unidad2/sesion1.html
+          - text: "Retroalimentación Sesión 1"
+            href: unidad2/retro_sesion1.html
+          - text: "Sesión 2"
+            href: unidad2/sesion2.html
+          # ...continúa según tus archivos reales
+      - text: "Unidad 3"
+        menu:
+          - text: "Portada"
+            href: unidad3/index.html
+          - text: "Sesión 1"
+            href: unidad3/sesion1.html
+          - text: "Retroalimentación Sesión 1"
+            href: unidad3/retro_sesion1.html
+          - text: "Sesión 2"
+            href: unidad3/sesion2.html
+          # ...continúa según tus archivos reales
+    right:
+      - text: "Recursos"
+        href: recursos.html
+      - text: "Acerca de"
+        href: about.html
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    toc-location: right

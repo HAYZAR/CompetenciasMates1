@@ -1,0 +1,96 @@
+---
+title: "Retroalimentación y Soluciones — Sesión 3: Factorización y Fracciones"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: ../../styles.css
+---
+
+::: {.callout-tip}
+**¡Felicidades por llegar a la retroalimentación de la sesión!**  
+Aquí podrás revisar las soluciones detalladas de la autoevaluación y los problemas abiertos, con explicaciones paso a paso y comentarios sobre aplicaciones prácticas.
+:::
+
+---
+
+## Soluciones al test de autoevaluación
+
+1. **Factor común:**  
+   **Pregunta:** ¿Cuál es el factor común de $6x^2 + 9x$?  
+   **Respuesta:** $3x$  
+   **Explicación:**  
+   Ambos términos tienen $3x$ como factor común, por lo que $6x^2 + 9x = 3x(2x + 3)$.
+
+2. **Diferencia de cuadrados:**  
+   **Pregunta:** ¿Cómo se factoriza $x^2 - 25$?  
+   **Respuesta:** $(x - 5)(x + 5)$  
+   **Explicación:**  
+   Es una diferencia de cuadrados: $x^2 - 25 = (x - 5)(x + 5)$.
+
+3. **Simplificación de fracciones:**  
+   **Pregunta:** Simplifica $\frac{2x^2 + 4x}{x}$  
+   **Respuesta:** $2x + 4$  
+   **Explicación:**  
+   Se divide cada término del numerador entre $x$.
+
+4. **Suma de fracciones:**  
+   **Pregunta:** Suma $\frac{1}{x} + \frac{2}{x}$  
+   **Respuesta:** $\frac{3}{x}$  
+   **Explicación:**  
+   Tienen denominador común, se suman los numeradores.
+
+5. **Multiplicación de fracciones:**  
+   **Pregunta:** Multiplica $\frac{x}{x+1} \cdot \frac{x+2}{x}$  
+   **Respuesta:** $\frac{x+2}{x+1}$  
+   **Explicación:**  
+   El $x$ del numerador y denominador se cancela.
+
+---
+
+## Soluciones a problemas abiertos
+
+1. **Factoriza $9x^2 - 16$ y explica un contexto de aplicación.**  
+   **Solución:**  
+   $9x^2 - 16$ es una diferencia de cuadrados:  
+   $9x^2 - 16 = (3x - 4)(3x + 4)$.  
+   **Contexto:**  
+   Puede aplicarse al comparar áreas de dos cuadrados, o para encontrar puntos de equilibrio en un modelo financiero con variaciones cuadráticas.
+
+2. **Simplifica $\frac{x^2 + 3x}{x}$ y da un ejemplo financiero.**  
+   **Solución:**  
+   $\frac{x^2 + 3x}{x} = x + 3$ (si $x \neq 0$).  
+   **Ejemplo financiero:**  
+   Si $x$ representa el número de unidades producidas y el numerador el costo total, entonces al dividir por $x$ obtenemos el costo unitario más un costo fijo por unidad.
+
+3. **Suma y simplifica: $\frac{5}{x} + \frac{4}{x+2}$ e interpretación administrativa.**  
+   **Solución:**  
+   $\frac{5}{x} + \frac{4}{x+2} = \frac{5(x+2) + 4x}{x(x+2)} = \frac{5x + 10 + 4x}{x(x+2)} = \frac{9x + 10}{x(x+2)}$  
+   **Interpretación:**  
+   En administración, podría modelar la suma de tasas de dos procesos con diferentes velocidades ($x$ y $x+2$).
+
+4. **Costos: $C = 2x^2 + 8x$. ¿Cómo puedes simplificar y qué representa cada factor?**  
+   **Solución:**  
+   $C = 2x^2 + 8x = 2x(x + 4)$  
+   $2x$ representa el costo variable, y $x+4$ puede interpretarse como un componente relacionado al aumento de unidades producidas.  
+   **Interpretación:**  
+   Cada factor puede corresponder a una variable diferente que afecta el costo total.
+
+5. **Divide: $\frac{x^2 - 4}{x+2} \div \frac{x-2}{x}$ y explica.**  
+   **Solución:**  
+   $\frac{x^2 - 4}{x+2} \div \frac{x-2}{x} = \frac{x^2 - 4}{x+2} \cdot \frac{x}{x-2}$  
+   Factoriza el numerador: $x^2 - 4 = (x-2)(x+2)$  
+   Por tanto, $\frac{(x-2)(x+2)}{x+2} \cdot \frac{x}{x-2} = (x-2)$ y $(x+2)$ se cancelan,  
+   queda: $(x-2)$ y $(x-2)$ se cancelan,  
+   finalmente: $x$  
+   **Explicación:**  
+   Simplificamos los factores comunes antes de multiplicar.
+
+---
+
+<p style="text-align:center; margin-top:2em;">
+  <a href="../../unidad1/sesion3.html"
+     style="background:#1976d2; color:white; padding:1em 2em; border-radius:10px; font-size:1.2em; text-decoration:none; font-weight:bold; box-shadow:0 2px 6px #aaa;">
+    ⬅️ Volver a la sesión 3
+  </a>
+</p>

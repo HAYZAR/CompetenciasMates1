@@ -1,0 +1,169 @@
+---
+title: "Sesión 5: Aplicaciones de Ecuaciones"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: ../../styles.css
+---
+
+::: {.callout-tip}
+**Objetivo de la sesión:**  
+Aplicar ecuaciones lineales y cuadráticas a la resolución de problemas prácticos de economía, administración y finanzas.
+:::
+
+---
+
+::: {.callout-note collapse="true"}
+## 1. Teoría y conceptos
+
+### Aplicaciones de ecuaciones lineales
+
+Una ecuación lineal es de la forma $ax + b = c$. Se usa para modelar relaciones con tasas constantes, como ingresos y costos en empresas, presupuestos o tasas de interés simple.
+
+- **Ejemplo económico:**  
+  Una empresa tiene ingresos $R = 10x$ y costos $C = 5x + 50$. El punto de equilibrio se halla resolviendo $10x = 5x + 50 \implies x = 10$ unidades.
+
+- **Ejemplo administrativo:**  
+  Un proyecto requiere $3x + 20$ horas, con un máximo de 50 horas: $3x + 20 = 50 \implies x = 10$.
+
+### Aplicaciones de ecuaciones cuadráticas
+
+Una ecuación cuadrática es de la forma $ax^2 + bx + c = 0$ y aparece en optimización (máximos o mínimos) o en análisis de trayectorias y recursos.
+
+- **Ejemplo económico:**  
+  El beneficio es $P = -2x^2 + 80x - 600$. El punto de equilibrio se encuentra resolviendo $-2x^2 + 80x - 600 = 0$, lo que da $x = 10$ y $x = 30$ unidades.
+
+- **Ejemplo financiero:**  
+  Ingresos: $R = -x^2 + 50x$. Igualar a $400$: $-x^2 + 50x = 400 \implies x = 10$ o $x = 40$.
+
+**Interpretación:**  
+En ecuaciones lineales, la solución suele ser única (unidades, tiempo, costos). En cuadráticas puede haber dos soluciones (niveles óptimos o puntos de corte). El discriminante $D = b^2 - 4ac$ indica cuántas soluciones reales existen.
+:::
+
+---
+
+::: {.callout-note collapse="true"}
+## 2. Ejercicios resueltos
+
+1. **Punto de equilibrio en economía:**  
+   Una empresa tiene $C = 3x + 100$ e ingresos $R = 7x$. Encuentra el punto de equilibrio.  
+   **Solución:** $7x = 3x + 100 \implies 4x = 100 \implies x = 25$ unidades.
+
+2. **Optimización con cuadrática:**  
+   El beneficio es $P = -2x^2 + 80x - 600$. Encuentra los valores de $x$ que dan beneficio cero.  
+   **Solución:**  
+   $-2x^2 + 80x - 600 = 0$  
+   $x^2 - 40x + 300 = 0$  
+   $(x - 30)(x - 10) = 0 \implies x = 10$ o $x = 30$.
+
+3. **Interpretación del discriminante:**  
+   Resuelve $x^2 - 10x + 25 = 0$.  
+   **Solución:** $D = 100 - 100 = 0$ ⇒ una única solución, $x = 5$.
+
+4. **Proyecto administrativo:**  
+   Un proyecto cuesta $C = x^2 - 20x + 100$. ¿Cuándo el costo es $0$?  
+   **Solución:** $(x - 10)^2 = 0 \implies x = 10$.
+
+5. **Retorno financiero:**  
+   $R = -x^2 + 60x$, igualar a $500$.  
+   **Solución:** $-x^2 + 60x = 500 \implies x^2 - 60x + 500 = 0$  
+   $(x - 50)(x - 10) = 0 \implies x = 10$ o $x = 50$.
+
+:::
+
+---
+
+::: {.callout-note collapse="true"}
+## 3. Ejercicios propuestos
+
+1. Una empresa tiene ingresos $R = 15x$ y costos $C = 10x + 75$. ¿Cuál es el punto de equilibrio?
+2. Un proyecto requiere $4x + 24$ horas y hay 60 horas disponibles. ¿Cuántas tareas $x$ se pueden hacer?
+3. El beneficio es $P = -x^2 + 24x - 64$. ¿Para qué valores de $x$ el beneficio es $0$?
+4. Un producto debe venderse a $p$ tal que $p^2 - 14p + 45 = 0$. ¿Qué precios son posibles?
+5. Si $C = 5x + 20$, ¿para qué $x$ el costo es $70$?
+6. Un retorno es $R = -3x^2 + 39x - 90$ igual a cero. ¿Para qué $x$?
+7. Una empresa debe equilibrar $20x = 4x + 96$. ¿Cuántas unidades?
+8. El ingreso es $R = -x^2 + 25x$. ¿Para qué $x$ el ingreso es $0$?
+9. Si el costo es $C = 2x^2 - 4x + 2$, ¿para qué $x$ es $C = 0$?
+10. Un beneficio se modela como $P = -x^2 + 12x - 20$. ¿Para qué valores de $x$ el beneficio es nulo?
+
+:::
+
+---
+
+## 4. Autoevaluación
+
+### Test (selección múltiple, única respuesta)
+
+```{=html}
+<div id="quiz">
+<p><strong>1. ¿Cuál es el punto de equilibrio si $C = 4x + 60$ y $R = 10x$?</strong></p>
+<input type="radio" name="q1" value="0"> a) 5<br>
+<input type="radio" name="q1" value="1"> b) 10<br>
+<input type="radio" name="q1" value="0"> c) 15<br>
+<input type="radio" name="q1" value="0"> d) 20<br>
+<p><strong>2. ¿Cuántas soluciones tiene $x^2 - 6x + 9 = 0$?</strong></p>
+<input type="radio" name="q2" value="1"> a) 1<br>
+<input type="radio" name="q2" value="0"> b) 2<br>
+<input type="radio" name="q2" value="0"> c) 0<br>
+<input type="radio" name="q2" value="0"> d) Infinitas<br>
+<p><strong>3. ¿Qué representa el discriminante $D$ en una cuadrática?</strong></p>
+<input type="radio" name="q3" value="0"> a) El coeficiente principal<br>
+<input type="radio" name="q3" value="1"> b) Número de soluciones reales<br>
+<input type="radio" name="q3" value="0"> c) El punto de equilibrio<br>
+<input type="radio" name="q3" value="0"> d) La pendiente de la recta<br>
+<p><strong>4. Una empresa con $C = 6x + 48$ e ingresos $R = 18x$. ¿Cuántas unidades para equilibrio?</strong></p>
+<input type="radio" name="q4" value="0"> a) 2<br>
+<input type="radio" name="q4" value="0"> b) 4<br>
+<input type="radio" name="q4" value="0"> c) 6<br>
+<input type="radio" name="q4" value="1"> d) 8<br>
+<p><strong>5. El beneficio $P = -x^2 + 14x - 49$ es cero para:</strong></p>
+<input type="radio" name="q5" value="0"> a) $x = 2$<br>
+<input type="radio" name="q5" value="1"> b) $x = 7$<br>
+<input type="radio" name="q5" value="0"> c) $x = 9$<br>
+<input type="radio" name="q5" value="0"> d) $x = 14$<br>
+<br>
+<button onclick="checkQuiz()">Ver resultado</button>
+<div id="quiz-feedback" style="margin-top:1em; font-weight:bold;"></div>
+</div>
+<script>
+function checkQuiz() {
+    let score = 0;
+    let total = 5;
+    let feedback = "";
+    let answers = [document.querySelector('input[name="q1"]:checked'),
+                   document.querySelector('input[name="q2"]:checked'),
+                   document.querySelector('input[name="q3"]:checked'),
+                   document.querySelector('input[name="q4"]:checked'),
+                   document.querySelector('input[name="q5"]:checked')];
+
+    if (answers.includes(null)) {
+      feedback = "Por favor responde todas las preguntas antes de ver el resultado.";
+      document.getElementById("quiz-feedback").innerHTML = feedback;
+      return;
+    }
+
+    for (let i=0; i<total; i++) {
+        score += Number(answers[i].value);
+    }
+
+    feedback = "Tu puntaje: " + score + " de " + total + ".<br>";
+
+    let explanations = [
+        "1. $10x = 4x + 60 \\to 6x = 60 \\to x = 10$.",
+        "2. $D = (-6)^2 - 4(1)(9) = 36 - 36 = 0$ (una solución).",
+        "3. El discriminante $D$ indica cuántas soluciones reales hay.",
+        "4. $18x = 6x + 48 \\to 12x = 48 \\to x = 4$.",
+        "5. $-x^2 + 14x - 49 = 0 \\to (x - 7)^2 = 0 \\to x = 7$."
+    ];
+    feedback += "<ul>";
+    for (let i=0; i<total; i++) {
+        let correct = answers[i].value == "1";
+        let color = correct ? "green" : "red";
+        feedback += `<li style="color:${color}">${explanations[i]}</li>`;
+    }
+    feedback += "</ul>";
+    document.getElementById("quiz-feedback").innerHTML = feedback;
+}
+</script>
